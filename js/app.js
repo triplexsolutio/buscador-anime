@@ -80,7 +80,7 @@ function getPageSize() {
 }
 
 function scrollToResultsTop() {
-  if (!resultsSection) return;
+  // if (!resultsSection) return;
   const rect = resultsSection.getBoundingClientRect();
   const absoluteTop = rect.top + window.scrollY;
 
@@ -119,6 +119,16 @@ searchInput.addEventListener("input", () => {
   });
   shouldScrollOnPageChange = false;
   renderPage(1);
+});
+
+searchInput.addEventListener("keydown", (event) => {
+  if (event.key === "Enter") {
+    event.preventDefault(); // evita que envíe formulario o recargue la página
+    shouldScrollOnPageChange = true;
+    // renderPage(1);
+    scrollToResultsTop();
+  }
+  shouldScrollOnPageChange = false;
 });
 
 // ====== RENDERIZADO + PAGINACIÓN ======

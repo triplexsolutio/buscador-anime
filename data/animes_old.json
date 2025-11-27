@@ -32,8 +32,8 @@
     "temporadas": 7,
     "episodios": 138,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/G6NQ5DWZ6/my-hero-academia",
-      "AnimeFLV": "https://www3.animeflv.net/browse?q=boku+no+hero"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -56,7 +56,7 @@
     "temporadas": 2,
     "episodios": 26,
     "plataformas": {
-      "AnimeFLV": "https://www3.animeflv.net/browse?q=Tales+of+Zestiria+X"
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Fantasía",
@@ -78,7 +78,7 @@
     "temporadas": 1,
     "episodios": 3,
     "plataformas": {
-      "Bilibili": "https://www.bilibili.tv/en/search-result?q=fog%20hill%20of%20five%20elements"
+      "Bilibili": "https://www.bilibili.com"
     },
     "generos": [
       "Acción",
@@ -101,8 +101,8 @@
     "temporadas": 2,
     "episodios": 24,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GQWH0M113/the-kings-avatar",
-      "AnimeFLV": "https://vww.animeflv.one/anime/quan-zhi-gao-shou-the-kings-avatar"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "E-sports",
@@ -125,8 +125,8 @@
     "temporadas": 1,
     "episodios": 1,
     "plataformas": {
-      "Prime Video": "https://www.primevideo.com/-/es/detail/Akira/0HGI6B1SWC2GX4RCB6AEB89FG4",
-      "AnimeFLV": "https://www3.animeflv.net/anime/akira"
+      "Prime Video": "https://www.primevideo.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Ciencia Ficción",
@@ -148,7 +148,7 @@
     "temporadas": 1,
     "episodios": 12,
     "plataformas": {
-      "AnimeFLV": "https://www3.animeflv.net/anime/ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai"
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Fantasía",
@@ -170,8 +170,8 @@
     "temporadas": 2,
     "episodios": 24,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GDKHZEJ0K/solo-leveling",
-      "AnimeFLV": "https://www3.animeflv.net/browse?q=Solo+Leveling"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -193,8 +193,8 @@
     "temporadas": null,
     "episodios": null,
     "plataformas": {
-      "HBO Max": "https://www.hbomax.com/es/es/shows/lazarus/7479ef42-c1ac-4473-854e-5a5c35894e35?utm_source=universal_search",
-      "AnimeFLV": "https://www3.animeflv.net/anime/lazarus"
+      "HBO Max": "https://www.max.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Ciencia Ficción",
@@ -216,7 +216,7 @@
     "temporadas": 1,
     "episodios": 24,
     "plataformas": {
-      "Mundodonghua": "https://www.mundodonghua.com/donghua/the-all-devouring-whale"
+      "Mundodonghua": "https://mundodonghua.com"
     },
     "generos": [
       "Acción",
@@ -238,8 +238,8 @@
     "temporadas": 1,
     "episodios": 12,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GW4HM7WK9/wistoria-wand-and-sword",
-      "AnimeFLV": "https://www3.animeflv.net/anime/tsue-to-tsurugi-no-wistoria"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -263,7 +263,7 @@
     "temporadas": null,
     "episodios": null,
     "plataformas": {
-      "AnimeFLV": "https://www3.animeflv.net/anime/uma-musume-cinderella-gray"
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Deportes",
@@ -285,8 +285,8 @@
     "temporadas": 1,
     "episodios": 1,
     "plataformas": {
-      "Netflix": "https://www.netflix.com/title/60027393",
-      "AnimeFLV": "https://www3.animeflv.net/anime/tenkuu-no-shiro-laputa"
+      "Netflix": "https://www.netflix.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Aventura",
@@ -308,7 +308,7 @@
     "temporadas": 1,
     "episodios": 24,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GQWH0M1J3/to-be-hero-x"
+      "Crunchyroll": "https://www.crunchyroll.com"
     },
     "generos": [
       "Acción",
@@ -331,7 +331,7 @@
     "temporadas": 1,
     "episodios": 12,
     "plataformas": {
-      "Bilibili": "https://www.bilibili.tv/en/video/4795786703410688"
+      "Bilibili": "https://www.bilibili.com"
     },
     "generos": [
       "Acción",
@@ -354,8 +354,8 @@
     "temporadas": 4,
     "episodios": 94,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GR751KNZY/attack-on-titan",
-      "AnimeFLV": "https://www3.animeflv.net/browse?q=Shingeki+no+kyojin+-+Attack+on+titan"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -378,8 +378,8 @@
     "temporadas": 2,
     "episodios": 50,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/G79H23Z8P/shangri-la-frontier",
-      "AnimeFLV": "https://www3.animeflv.net/anime/shangrila-frontier-kusoge-hunter-kamige-ni-idoman-to-su"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -402,8 +402,8 @@
     "temporadas": 5,
     "episodios": 50,
     "plataformas": {
-      "Netflix": "https://www.netflix.com/title/81156880",
-      "Jkanime": "https://jkanime.net/cike-wu-liuqi/"
+      "Netflix": "https://www.netflix.com",
+      "Jkanime": "https://jkanime.net"
     },
     "generos": [
       "Acción",
@@ -425,8 +425,8 @@
     "temporadas": 2,
     "episodios": 152,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/G6752ZK3R/fist-of-the-north-star?srsltid=AfmBOoqNwcwMnifWKN-aMAtkYD9n4pVDmDHaxJAtq_XwjBhay4K1bDzn",
-      "Jkanime": "https://jkanime.net/fist-of-the-north-star/"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "Jkanime": "https://jkanime.net"
     },
     "generos": [
       "Acción",
@@ -449,8 +449,8 @@
     "temporadas": 4,
     "episodios": 52,
     "plataformas": {
-      "Prime Video": "https://www.primevideo.com/detail/Overlord/0J9DTICANGRCI0163NRHK3Z2CU",
-      "AnimeFLV": "https://www3.animeflv.net/browse?q=Overlord"
+      "Prime Video": "https://www.primevideo.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Isekai",
@@ -472,8 +472,8 @@
     "temporadas": 4,
     "episodios": 63,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GY5P48XEY/demon-slayer-kimetsu-no-yaiba",
-      "AnimeFLV": "https://www3.animeflv.net/browse?q=Kimetsu+No+Yaiba"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -496,7 +496,7 @@
     "temporadas": 1,
     "episodios": 13,
     "plataformas": {
-      "AnimeFLV": "https://www3.animeflv.net/browse?q=Magi+Sinbad"
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Aventura",
@@ -519,8 +519,8 @@
     "temporadas": 21,
     "episodios": 1150,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GRMG8ZQZR/one-piece",
-      "AnimeFLV": "https://www3.animeflv.net/anime/one-piece-tv"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Aventura",
@@ -544,8 +544,8 @@
     "temporadas": 1,
     "episodios": 25,
     "plataformas": {
-      "Netflix": "https://www.netflix.com/title/80180849",
-      "AnimeFLV": "https://www3.animeflv.net/anime/fateapocrypha"
+      "Netflix": "https://www.netflix.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -568,8 +568,8 @@
     "temporadas": 6,
     "episodios": 148,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GY3VKX1MR/hunter-x-hunter",
-      "AnimeFLV": "https://www3.animeflv.net/browse?q=Hunter+x+Hunter"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -592,7 +592,7 @@
     "temporadas": 2,
     "episodios": 24,
     "plataformas": {
-      "AnimeFLV": "https://www3.animeflv.net/anime/ishura"
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -613,8 +613,8 @@
     "temporadas": 5,
     "episodios": 60,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GZJH3DJ8E/the-daily-life-of-the-immortal-king",
-      "Jkanime": "https://jkanime.net/buscar/The%20Daily%20Life%20of%20the%20Immortal%20King"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "Jkanime": "https://jkanime.net"
     },
     "generos": [
       "Acción",
@@ -639,7 +639,7 @@
     "temporadas": 1,
     "episodios": 1,
     "plataformas": {
-      "AnimeFLV": "https://www3.animeflv.net/anime/terra-e"
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Ciencia ficción",
@@ -661,7 +661,7 @@
     "temporadas": 1,
     "episodios": 18,
     "plataformas": {
-      "Netflix": "https://www.netflix.com/title/81251383"
+      "Netflix": "https://www.netflix.com"
     },
     "generos": [
       "Ciencia ficción",
@@ -683,8 +683,8 @@
     "temporadas": 2,
     "episodios": 23,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GG5H5XQ7D/kaiju-no-8",
-      "AnimeFLV": "https://www3.animeflv.net/browse?q=Kaiju+no+8"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -708,8 +708,8 @@
     "temporadas": 2,
     "episodios": 47,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GRDV0019R/jujutsu-kaisen",
-      "AnimeFLV": "https://www3.animeflv.net/browse?q=Jujutsu+Kaisen"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -732,8 +732,8 @@
     "temporadas": 3,
     "episodios": 60,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GYQWNXPZY/fire-force",
-      "AnimeFLV": "https://www3.animeflv.net/browse?q=Fire+Force"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -779,7 +779,7 @@
     "temporadas": 1,
     "episodios": 21,
     "plataformas": {
-      "AnimeFLV": "https://www3.animeflv.net/browse?q=Fate+Grand+Order"
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -801,7 +801,7 @@
     "temporadas": 1,
     "episodios": 1,
     "plataformas": {
-      "AnimeFLV": "https://www3.animeflv.net/anime/vampire-hunter-d-bloodlust"
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -823,7 +823,7 @@
     "temporadas": 1,
     "episodios": 20,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GP5HJ84P7/gachiakuta"
+      "Crunchyroll": "https://www.crunchyroll.com"
     },
     "generos": [
       "Acción",
@@ -846,8 +846,8 @@
     "temporadas": 4,
     "episodios": 170,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GRE50KV36/black-clover",
-      "AnimeFLV": "https://www3.animeflv.net/browse?q=Black+Clover"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -870,8 +870,8 @@
     "temporadas": 3,
     "episodios": 26,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GG5H5X3VN/arknights",
-      "AnimeFLV": "https://www3.animeflv.net/browse?q=Arknights"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -893,7 +893,7 @@
     "temporadas": 1,
     "episodios": 1,
     "plataformas": {
-      "AnimeFLV": "https://www3.animeflv.net/anime/hotaru-no-haka"
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Drama",
@@ -915,7 +915,7 @@
     "temporadas": 4,
     "episodios": 52,
     "plataformas": {
-      "Netflix": "https://www.netflix.com/title/80027563"
+      "Netflix": "https://www.netflix.com"
     },
     "generos": [
       "Acción",
@@ -938,7 +938,7 @@
     "temporadas": 2,
     "episodios": 32,
     "plataformas": {
-      "Jkanime": "https://jkanime.net/da-wang-rao-ming/"
+      "Jkanime": "https://jkanime.net"
     },
     "generos": [
       "Acción",
@@ -961,7 +961,7 @@
     "temporadas": 1,
     "episodios": 1,
     "plataformas": {
-      "Netflix": "https://www.netflix.com/es/title/80233883"
+      "Netflix": "https://www.netflix.com"
     },
     "generos": [
       "Fantasía",
@@ -984,7 +984,7 @@
     "temporadas": 1,
     "episodios": 12,
     "plataformas": {
-      "Netflix": "https://www.netflix.com/title/80052669",
+      "Netflix": "https://www.netflix.com",
       "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
@@ -1008,7 +1008,7 @@
     "temporadas": 3,
     "episodios": 39,
     "plataformas": {
-      "Jkanime": "https://jkanime.net/zhen-hun-jie/"
+      "Jkanime": "https://jkanime.net"
     },
     "generos": [
       "Acción",
@@ -1030,7 +1030,7 @@
     "temporadas": 2,
     "episodios": 25,
     "plataformas": {
-      "AnimeFLV": "https://www3.animeflv.net/browse?q=Made+in+Abyss"
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Aventura",
@@ -1052,7 +1052,7 @@
     "temporadas": 4,
     "episodios": 48,
     "plataformas": {
-      "AnimeFLV": "https://www3.animeflv.net/browse?q=Tokyo+Ghoul"
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Terror",
@@ -1075,7 +1075,7 @@
     "temporadas": 17,
     "episodios": 392,
     "plataformas": {
-      "AnimeFLV": "https://www3.animeflv.net/browse?q=Bleach"
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -1098,8 +1098,8 @@
     "temporadas": 1,
     "episodios": 37,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/G6QWD3EE6/death-note",
-      "AnimeFLV": "https://www3.animeflv.net/anime/death-note"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Suspenso",
@@ -1122,7 +1122,7 @@
     "temporadas": 1,
     "episodios": 1,
     "plataformas": {
-      "Netflix": "https://www.netflix.com/us-es/title/80161371"
+      "Netflix": "https://www.netflix.com"
     },
     "generos": [
       "Romance",
@@ -1144,8 +1144,8 @@
     "temporadas": 2,
     "episodios": 24,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GP5HJ8E81/link-click",
-      "Jkanime": "https://jkanime.net/shiguang-dailiren/"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "Jkanime": "https://jkanime.net"
     },
     "generos": [
       "Misterio",
@@ -1168,8 +1168,8 @@
     "temporadas": 3,
     "episodios": 36,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/G63K98PZ6/one-punch-man",
-      "AnimeFLV": "https://www3.animeflv.net/browse?q=one+punch"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -1192,8 +1192,8 @@
     "temporadas": 2,
     "episodios": 26,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GRNQPEGWR/terra-formars",
-      "AnimeFLV": "https://www3.animeflv.net/browse?q=terra+formars"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -1216,8 +1216,8 @@
     "temporadas": 1,
     "episodios": 12,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GG5H5XQ0D/dan-da-dan",
-      "AnimeFLV": "https://www3.animeflv.net/anime/dandadan"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -1240,8 +1240,8 @@
     "temporadas": 1,
     "episodios": 28,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GG5H5XQX4/frieren-beyond-journeys-end",
-      "AnimeFLV": "https://www3.animeflv.net/anime/sousou-no-frieren"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Fantasía",
@@ -1263,8 +1263,8 @@
     "temporadas": 2,
     "episodios": 24,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GNVHKNPW1/nierautomata-ver11a",
-      "AnimeFLV": "https://www3.animeflv.net/anime/nierautomata-ver11a"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Sci-fi",
@@ -1287,8 +1287,8 @@
     "temporadas": 1,
     "episodios": 13,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/series/GJ0H7Q5ZJ/hells-paradise",
-      "AnimeFLV": "https://vww.animeflv.one/anime/jigokuraku"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -1310,8 +1310,8 @@
     "temporadas": 1,
     "episodios": 12,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/series/GVDHX8QNW/chainsaw-man",
-      "AnimeFLV": "https://vww.animeflv.one/anime/chainsaw-man"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -1333,7 +1333,7 @@
     "temporadas": 4,
     "episodios": 70,
     "plataformas": {
-      "Youtube": "https://www.youtube.com/@AnkamaAnimations"
+      "Youtube": "https://www.youtube.com"
     },
     "generos": [
       "Aventura",
@@ -1355,8 +1355,8 @@
     "temporadas": 1,
     "episodios": 51,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/series/GYX0ZW80R/soul-eater",
-      "AnimeFLV": "https://www3.animeflv.net/anime/soul-eater"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -1400,7 +1400,7 @@
     "temporadas": 1,
     "episodios": 24,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GEXH3W2EZ/lord-of-mysteries"
+      "Crunchyroll": "https://www.crunchyroll.com"
     },
     "generos": [
       "Misterio",
@@ -1443,7 +1443,7 @@
     "temporadas": 1,
     "episodios": 8,
     "plataformas": {
-      "Webtoons": "https://www.webtoons.com/es/fantasy/7fates-chakho/list?title_no=3796"
+      "Webtoons": "https://www.webtoons.com"
     },
     "generos": [
       "Acción",
@@ -1465,8 +1465,8 @@
     "temporadas": 1,
     "episodios": 13,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/series/GRE...touken-ranbu",
-      "AnimeFLV": "https://www3.animeflv.net/anime/katsugekitouken-ranbu"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -1488,7 +1488,7 @@
     "temporadas": 1,
     "episodios": 1,
     "plataformas": {
-      "AnimeFLV": "https://www3.animeflv.net/anime/009-recyborg-2012"
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Sci-fi",
@@ -1510,8 +1510,8 @@
     "temporadas": 2,
     "episodios": 37,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/G24H1N3MP/mushoku-tensei-jobless-reincarnation",
-      "AnimeFLV": "https://www3.animeflv.net/browse?q=Mushoku+tensei"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Isekai",
@@ -1534,8 +1534,8 @@
     "temporadas": 1,
     "episodios": 52,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GEXH3W24Z/another-journey-to-the-west",
-      "Jkanime": "https://jkanime.net/ji-yao-lu-qicheng-pian/"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "Jkanime": "https://jkanime.net"
     },
     "generos": [
       "Aventura",
@@ -1557,8 +1557,8 @@
     "temporadas": 1,
     "episodios": 12,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GR24GX896/kabaneri-of-the-iron-fortress",
-      "Jkanime": "https://jkanime.net/koutetsujou-no-kabaneri/"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "Jkanime": "https://jkanime.net"
     },
     "generos": [
       "Acción",
@@ -1581,7 +1581,7 @@
     "temporadas": 1,
     "episodios": 10,
     "plataformas": {
-      "Youtube": "https://www.youtube.com/watch?v=C5O305mfkUA&t=2s&pp=ygUuQXB1a3VuYXBhIGt1dGltdXluaW46IEVsIHJlbmFjZXIgZGUgbG9zIGRpb3Nlc9IHCQnQCQGHKiGM7w%3D%3D"
+      "Youtube": "https://www.youtube.com"
     },
     "generos": [
       "Fantasía",
@@ -1603,8 +1603,8 @@
     "temporadas": 5,
     "episodios": 63,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GR5VXQ8PR/bungo-stray-dogs",
-      "AnimeFLV": "https://www3.animeflv.net/browse?q=Bungo+stray+dogs"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -1626,8 +1626,8 @@
     "temporadas": 5,
     "episodios": 68,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/G63VMXEQY/hitori-no-shita---the-outcast?srsltid=AfmBOoo8X3G4pIMg22amd42oAfxAhO8zLsM1UTiH98tt37NgSWuMUjYn",
-      "AnimeFLV": "https://www3.animeflv.net/anime/hitori-no-shita-the-outcast-2nd-season"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -1650,8 +1650,8 @@
     "temporadas": 1,
     "episodios": 12,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GXJHM3PK5/trigun-stampede",
-      "AnimeFLV": "https://www3.animeflv.net/anime/trigun-stampede"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -1674,7 +1674,7 @@
     "temporadas": 1,
     "episodios": 49,
     "plataformas": {
-      "AnimeFLV": "https://www3.animeflv.net/anime/jigoku-sensei-nube-2025"
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Terror",
@@ -1697,8 +1697,8 @@
     "temporadas": 1,
     "episodios": 12,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GMEHME7VW/onmyo-kaiten-rebirth-verse",
-      "AnimeFLV": "https://www3.animeflv.net/anime/onmyou-kaiten-rebirth"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -1721,8 +1721,8 @@
     "temporadas": 1,
     "episodios": 12,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/G8DHV78ZM/clevatess",
-      "AnimeFLV": "https://www3.animeflv.net/anime/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -1744,8 +1744,8 @@
     "temporadas": 1,
     "episodios": 13,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/G9VHN9Q3G/secrets-of-the-silent-witch",
-      "AnimeFLV": "https://www3.animeflv.net/anime/silent-witch-chinmoku-no-majo-no-kakushigoto"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Fantasía",
@@ -1767,8 +1767,8 @@
     "temporadas": 1,
     "episodios": 12,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GG5H5XQG5/the-water-magician",
-      "AnimeFLV": "https://www3.animeflv.net/anime/mizu-zokusei-no-mahoutsukai"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Fantasía",
@@ -1791,8 +1791,8 @@
     "temporadas": 1,
     "episodios": 12,
     "plataformas": {
-      "Netflix": "https://www.netflix.com/watch/81972293",
-      "AnimeFLV": "https://www3.animeflv.net/anime/hikaru-ga-shinda-natsu"
+      "Netflix": "https://www.netflix.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Terror",
@@ -1815,8 +1815,8 @@
     "temporadas": 1,
     "episodios": 19,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GP5HJ84D2/tougen-anki",
-      "AnimeFLV": "https://www3.animeflv.net/anime/tougen-anki"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -1839,8 +1839,8 @@
     "temporadas": 1,
     "episodios": 24,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/G79H23G0D/so-im-a-spider-so-what",
-      "AnimeFLV": "https://www3.animeflv.net/anime/kumo-desu-ga-nani-ka"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -1863,8 +1863,8 @@
     "temporadas": 2,
     "episodios": 24,
     "plataformas": {
-      "Prime Video": "https://www.primevideo.com/-/es/detail/GOBLIN-SLAYER/0QMS2IMWQ0TQHJDPXEPQSNDBI6",
-      "AnimeFLV": "https://www3.animeflv.net/browse?q=Goblin+Slayer"
+      "Prime Video": "https://www.primevideo.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -1886,8 +1886,8 @@
     "temporadas": 1,
     "episodios": 10,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/G4PH0WJNG/bloody-escape-bats-out-of-hell",
-      "Prime Video": "https://www.primevideo.com/-/es_419/detail/Bloody-Escape-Bats-out-of-Hell/0F5ZW9CVZYD5KL3X2B252JRDNK"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "Prime Video": "https://www.primevideo.com"
     },
     "generos": [
       "Acción",
@@ -1909,8 +1909,8 @@
     "temporadas": 1,
     "episodios": 24,
     "plataformas": {
-      "Netflix": "https://www.netflix.com/us-es/title/82030192",
-      "AnimeFLV": "https://www3.animeflv.net/anime/shin-samuraiden-yaiba"
+      "Netflix": "https://www.netflix.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -1933,8 +1933,8 @@
     "temporadas": 2,
     "episodios": 23,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GYVD2K1WY/the-promised-neverland?srsltid=AfmBOoqE-UVum23z_KaGu1QjuDJY3BKpdqq2JcOidfl4106_EAQYIcjs",
-      "Netflix": "https://www.netflix.com/us-es/title/81145640"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "Netflix": "https://www.netflix.com"
     },
     "generos": [
       "Suspenso",
@@ -1957,8 +1957,8 @@
     "temporadas": 1,
     "episodios": 24,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GY8VEQ95Y/darling-in-the-franxx?srsltid=AfmBOooN2bchtaNwqEfwKI6g6_4YnZWqCg2WbuBNYqr_-33dEjiEJRPX",
-      "AnimeFLV": "https://www3.animeflv.net/anime/darling-in-the-franxx"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Mecha",
@@ -1981,8 +1981,8 @@
     "temporadas": 1,
     "episodios": 12,
     "plataformas": {
-      "AnimeAV1": "https://animeav1.com/media/towa-no-yuugure",
-      "AnimeFLV": "https://www3.animeflv.net/anime/towa-no-yuugure"
+      "AnimeAV1": "https://animeav1.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Sci-fi",
@@ -2005,8 +2005,8 @@
     "temporadas": 1,
     "episodios": 12,
     "plataformas": {
-      "AnimeAV1": "https://animeav1.com/media/shinjiteita-nakama-tachi-ni-dungeon-okuchi-de-korosarekaketa-ga-gift-mugen-gacha-de-level-9999-no-nakama-tachi-wo-te-ni-irete-moto-party-member-to-sekai-ni-fukushuu-zamaa-shimasu",
-      "AnimeFLV": "https://www3.animeflv.net/anime/mugen-gacha"
+      "AnimeAV1": "https://animeav1.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -2030,7 +2030,7 @@
     "episodios": 13,
     "plataformas": {
       "PrimeVideo": "https://www.primevideo.com",
-      "AnimeFLV": "https://www3.animeflv.net/anime/sanda"
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -2053,8 +2053,8 @@
     "temporadas": 1,
     "episodios": 12,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GT00361955/a-wild-last-boss-appeared?srsltid=AfmBOopip3wpNZnLVOHUMRyOFgdBuRvLaICv3Tlb2JvE5emKrcV5UBD_",
-      "AnimeFLV": "https://www3.animeflv.net/anime/yasei-no-last-boss-ga-arawareta"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Isekai",
@@ -2077,7 +2077,7 @@
     "temporadas": 1,
     "episodios": 24,
     "plataformas": {
-      "Netflix": "https://www.netflix.com/es/title/81171925",
+      "Netflix": "https://www.netflix.com",
       "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
@@ -2100,8 +2100,8 @@
     "temporadas": 1,
     "episodios": 17,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GDKHZEJN0/dragon-raja--the-blazing-dawn-?srsltid=AfmBOoq5g7K1JTw2tBC6Ag05HDJS0a_xqzbXtPYIqUwNxSwKRnKEIBjG",
-      "AnimeFLV": "https://animeflv.zip/anime/dragon-raja-audio-japones"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -2123,7 +2123,7 @@
     "temporadas": 2,
     "episodios": 32,
     "plataformas": {
-      "Netflix": "https://www.netflix.com/bs-es/title/81642096",
+      "Netflix": "https://www.netflix.com",
       "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
@@ -2146,8 +2146,8 @@
     "temporadas": 1,
     "episodios": 12,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/G0XHWM1JP/my-status-as-an-assassin-obviously-exceeds-the-heros?srsltid=AfmBOorN_wg_mnYteh6hGVL5nlwuGT6kx2IooQacO_7wmmVI34Vn1yAy",
-      "AnimeFLV": "https://www3.animeflv.net/anime/ansatsusha-de-aru-ore-no-status-ga-yuusha-yori-mo-akiraka-ni-tsuyoi-no-da-ga"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Isekai",
@@ -2169,8 +2169,8 @@
     "temporadas": 1,
     "episodios": 12,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GT00365132/gnosia?srsltid=AfmBOorjCGZciyCF-GnuRZyLdrokC7_rgXh_qoMaWdgPIMIrX37OEJcO",
-      "AnimeFLV": "https://www3.animeflv.net/anime/gnosia"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Misterio",
@@ -2192,8 +2192,8 @@
     "temporadas": 1,
     "episodios": 24,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GY2P14QEY/akame-ga-kill?srsltid=AfmBOoqCggugrklBn_yZC3OmZIKGSTqyNLo-QG2hTtM9gxVdyI-OldFW",
-      "AnimeFLV": "https://www3.animeflv.net/browse?q=akame"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -2214,8 +2214,8 @@
     "temporadas": 1,
     "episodios": 10,
     "plataformas": {
-      "Netflix": "https://www.netflix.com/es/title/81054853",
-      "AnimeFLV": "https://www3.animeflv.net/ver/cyberpunk-edgerunners-1"
+      "Netflix": "https://www.netflix.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Sci-fi",
@@ -2237,8 +2237,8 @@
     "temporadas": 1,
     "episodios": 20,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GT00364378/digimon-beatbreak?srsltid=AfmBOoo0CH5NDp4TDX9UqLOhT8MrYjwodTagJTkT1-kDw73F6xAX7L9e",
-      "AnimeFLV": "https://www3.animeflv.net/anime/digimon-beatbreak"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -2260,8 +2260,8 @@
     "temporadas": 1,
     "episodios": 12,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GG5H5XQ14/the-kingdoms-of-ruin",
-      "AnimeFLV": "https://www3.animeflv.net/anime/hametsu-no-oukoku"
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -2283,8 +2283,8 @@
     "temporadas": 1,
     "episodios": 12,
     "plataformas": {
-      "Prime Video": "https://www.primevideo.com/-/es/detail/Chained-Soldier/0MZ4VZ3GP35NWJST486B6SFIIV",
-      "AnimeFLV": "https://www3.animeflv.net/anime/mato-seihei-no-slave"
+      "Prime Video": "https://www.primevideo.com",
+      "AnimeFLV": "https://www3.animeflv.net"
     },
     "generos": [
       "Acción",
@@ -2307,7 +2307,7 @@
     "temporadas": 1,
     "episodios": 12,
     "plataformas": {
-      "Netflix": "https://www.netflix.com/es/title/81642998"
+      "Netflix": "https://www.netflix.com"
     },
     "generos": [
       "Isekai",
@@ -2329,7 +2329,7 @@
     "temporadas": 2,
     "episodios": 48,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GEXH3WKK0/vinland-saga?srsltid=AfmBOorQeJZvS5h6F71OEWBDdJE3h7RimyeANIB7HygFb3IEtcObXV3S"
+      "Crunchyroll": "https://www.crunchyroll.com"
     },
     "generos": [
       "Acción",
@@ -2352,7 +2352,7 @@
     "temporadas": 4,
     "episodios": 32,
     "plataformas": {
-      "Netflix": "https://www.netflix.com/es/title/81642998"
+      "Netflix": "https://www.netflix.com"
     },
     "generos": [
       "Acción",
@@ -2374,7 +2374,7 @@
     "temporadas": 1,
     "episodios": 24,
     "plataformas": {
-      "Netflix": "https://www.netflix.com/es/title/81642998"
+      "Netflix": "https://www.netflix.com"
     },
     "generos": [
       "Acción",
@@ -2396,7 +2396,7 @@
     "temporadas": 1,
     "episodios": 8,
     "plataformas": {
-      "Netflix": "https://www.netflix.com/es/title/81642998"
+      "Netflix": "https://www.netflix.com"
     },
     "generos": [
       "Acción",
@@ -2418,7 +2418,7 @@
     "temporadas": 2,
     "episodios": 12,
     "plataformas": {
-      "Netflix": "https://www.netflix.com/es/title/81642998"
+      "Netflix": "https://www.netflix.com"
     },
     "generos": [
       "Terror",
@@ -2441,7 +2441,7 @@
     "temporadas": 4,
     "episodios": 73,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es/series/G649PJ0JY/blue-exorcist?srsltid=AfmBOopFJ4uF4cQkT2u68Cwyctg0_f22hBNGpiTudkpLGJ6kFLWJ-vGR"
+      "Crunchyroll": "https://www.crunchyroll.com"
     },
     "generos": [
       "Acción",
@@ -2464,7 +2464,7 @@
     "temporadas": 3,
     "episodios": 96,
     "plataformas": {
-      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GR49G9VP6/sword-art-online?srsltid=AfmBOoqQB6O1wxe7iUGJy6J2nEfRP47uByKbGCb24pFUoMDEk2Cr5B5l"
+      "Crunchyroll": "https://www.crunchyroll.com"
     },
     "generos": [
       "Acción",
@@ -2487,7 +2487,7 @@
     "temporadas": 1,
     "episodios": 8,
     "plataformas": {
-      "Netflix": "https://www.netflix.com/title/81506915"
+      "Netflix": "https://www.netflix.com"
     },
     "generos": [
       "Acción",
