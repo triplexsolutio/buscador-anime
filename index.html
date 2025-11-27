@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="light">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Buscador de Animes of TriplexSolutio</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Iconos (Font Awesome) -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+      integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+
+    <link rel="stylesheet" href="css/styles.css" />
+    <link rel="icon" type="image/webp" href="img/logo.webp" class="logo-circle">
+
+  </head>
+  <body>
+    <!-- HEADER -->
+    <header class="site-header">
+      <div class="header-inner">
+        <div class="logo-area">
+          <img class="logo-circle" src="img/logo.webp" alt="Triplexsolutio logo" />
+          <span class="brand">TriplexSolutio</span>
+        </div>
+        <div class="header-actions">
+          <button
+            id="searchJump"
+            class="icon-button search-jump"
+            aria-label="Ir al buscador"
+          >
+            <i class="fa-solid fa-magnifying-glass"></i>
+          </button>
+          <button
+            id="themeToggle"
+            class="icon-button theme-toggle"
+            aria-label="Cambiar tema"
+          >
+            <i class="fa-solid fa-moon"></i>
+          </button>
+
+          <button
+            id="menuToggle"
+            class="icon-button menu-toggle"
+            aria-label="Abrir menú"
+          >
+            <i class="fa-solid fa-bars"></i>
+          </button>
+        </div>
+      </div>
+    </header>
+    <nav id="mobileMenu" class="mobile-menu">
+      <div class="mobile-menu-backdrop"></div>
+      <div class="mobile-menu-panel">
+        <button
+          class="mobile-menu-close"
+          id="mobileMenuClose"
+          aria-label="Cerrar menú"
+        >
+          <i class="fa-solid fa-xmark"></i>
+        </button>
+
+        <ul>
+          <li><a href="#title" data-menu-link>Buscar anime</a></li>
+          <li><a href="#info" data-menu-link>Sobre el buscador</a></li>
+          <li><a href="#footer" data-menu-link>Contacto</a></li>
+          <!-- Aquí luego puedes poner enlaces a /sobre-mi, /patreon, etc -->
+        </ul>
+      </div>
+    </nav>
+
+    <main>
+      <!-- TÍTULO / HERO -->
+      <section id="title" class="hero">
+        <h1>Buscador de Animes</h1>
+        <p>
+          Encuentra <b>dónde ver</b> los animes y donghuas de mi lista de
+          recomendaciones y más info: temporadas, episodios, plataformas,
+          géneros, año, etc.
+        </p>
+      </section>
+
+      <!-- BUSCADOR -->
+      <section id="buscar" class="search-section">
+        <label for="searchInput" class="search-label"
+          ><b>Busca por nombre o género</b></label
+        >
+        <input
+          type="text"
+          id="searchInput"
+          class="search-input"
+          placeholder="Ej: Naruto, romance, isekai..."
+        />
+      </section>
+
+      <!-- ZONA DE ANUNCIOS -->
+      <section class="ads-section">
+        <h2>Publicidad / Avisos</h2>
+        <div id="adsContainer">
+          <p>
+            Espacio para banners, promos de Patreon, enlaces a tu Telegram, etc.
+          </p>
+        </div>
+      </section>
+
+      <!-- RESULTADOS -->
+      <section class="results-section">
+        <h2>Resultados</h2>
+        <div id="resultsContainer" class="results-grid"></div>
+        <p id="noResults" class="no-results hidden">
+          No se encontraron animes con ese criterio.
+        </p>
+        <div id="pagination" class="pagination"></div>
+      </section>
+
+      <!-- INFO EXTRA -->
+      <section id="info" class="info-section">
+        <h2>Sobre este buscador</h2>
+        <p>
+          Esta nueva (y única) herramienta hecha para LATAM/España se basa en
+          una lista personal de animes y donghuas seleccionados por mí
+          ("TriplexSolutio", llámame Triple si quieres jeje), a lo largo de los años.
+        </br></br>
+          En constante construcción cuando tengo tiempo... </br>De un fan del anime para fans del anime :)
+        </p>
+        <p>
+          Comparte este buscador con tus amigxs otakus para que podais encontrar
+          toda la info sobre mis recomendaciones publicadas en redes sociales y
+          patreon.
+        </p>
+      </section>
+    </main>
+
+    <!-- MODAL DE DETALLE DE ANIME -->
+    <div id="animeModal" class="modal hidden">
+      <div class="modal-backdrop"></div>
+      <div class="modal-content">
+        <button class="modal-close" id="modalCloseBtn">
+          <i class="fa-solid fa-xmark"></i>
+        </button>
+
+        <div class="modal-body">
+          <div class="modal-image">
+            <img id="modalImage" src="" alt="Portada anime" />
+          </div>
+          <div class="modal-info">
+            <h2 id="modalTitle"></h2>
+            <p class="modal-subtitle">
+              <span id="modalTitleJp"></span> · <span id="modalYear"></span> ·
+              <span id="modalSeasons"></span> temporadas ·
+              <span id="modalEpisodes"></span> episodios
+            </p>
+            <p id="modalDescription" class="modal-description"></p>
+
+            <div class="modal-section">
+              <h3>Plataformas (enlace directo al anime)</h3>
+              <ul id="modalPlatforms" class="tag-list"></ul>
+            </div>
+
+            <div class="modal-section">
+              <h3>Géneros</h3>
+              <ul id="modalGenres" class="tag-list"></ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- FOOTER -->
+    <footer id="footer" class="site-footer">
+      <div class="footer-inner">
+        <p>© <span id="year"></span> TriplexSolutio · Anime & Donghua</p>
+        <div class="social-links">
+          <a
+            href="https://instagram.com/triplexsolutio"
+            target="_blank"
+            rel="noopener"
+            ><i class="fa-brands fa-instagram"></i
+          ></a>
+
+          <a
+            href="https://tiktok.com/@triplexsolutio"
+            target="_blank"
+            rel="noopener"
+            ><i class="fa-brands fa-tiktok"></i
+          ></a>
+          <a
+            href="https://patreon.com/triplexsolutio"
+            target="_blank"
+            rel="noopener"
+            ><i class="fa-brands fa-patreon"></i
+          ></a>
+          <a href="https://discord.gg/GqC7QmZdc5" target="_blank" rel="noopener"
+            ><i class="fa-brands fa-discord"></i
+          ></a>
+          <a
+            href="https://youtube.com/@triplexsolutio"
+            target="_blank"
+            rel="noopener"
+            ><i class="fa-brands fa-youtube"></i
+          ></a>
+          <a
+            href="https://www.threads.net/@triplexsolutio"
+            target="_blank"
+            rel="noopener"
+            ><i class="fa-brands fa-threads"></i
+          ></a>
+        </div>
+      </div>
+    </footer>
+
+    <script src="js/app.js"></script>
+  </body>
+</html>

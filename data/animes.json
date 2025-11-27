@@ -1,0 +1,2734 @@
+[
+  {
+    "id": 1,
+    "nombreEng": "Fate Stay Night",
+    "nombreJp": "Fate/stay night",
+    "descripcion": "Shirou Emiya entra en la Guerra del Santo Grial, donde magos y héroes legendarios luchan a muerte por un deseo capaz de cambiar el mundo.",
+    "imagen": "img/placeholder.png",
+    "anio": 2006,
+    "temporadas": 1,
+    "episodios": 24,
+    "plataformas": {
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Fantasía",
+      "Sobrenatural",
+      "Drama"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": true
+  },
+  {
+    "id": 2,
+    "nombreEng": "My hero academia",
+    "nombreJp": "Boku no Hero Academia",
+    "descripcion": "En un mundo lleno de superpoderes, Izuku Midoriya nace sin habilidades pero aspira a convertirse en el héroe número uno.",
+    "imagen": "img/placeholder.png",
+    "anio": 2016,
+    "temporadas": 7,
+    "episodios": 138,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Shonen",
+      "Escolar",
+      "Superpoderes"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": true
+  },
+  {
+    "id": 3,
+    "nombreEng": "Tales of Zestiria X",
+    "nombreJp": "Tales of Zestiria the Cross",
+    "descripcion": "Sorey, un humano criado por serafines, se convierte en el Pastor destinado a purificar al mundo de la malevolencia.",
+    "imagen": "img/placeholder.png",
+    "anio": 2016,
+    "temporadas": 2,
+    "episodios": 26,
+    "plataformas": {
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Fantasía",
+      "Acción",
+      "Aventura"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 4,
+    "nombreEng": "Fog Hill of Five Elements",
+    "nombreJp": "Wu Shan Wu Xing",
+    "descripcion": "Un guerrero con control elemental protege una tierra sagrada mientras enfrenta criaturas místicas y amenazas sobrenaturales.",
+    "imagen": "img/placeholder.png",
+    "anio": 2020,
+    "temporadas": 1,
+    "episodios": 3,
+    "plataformas": {
+      "Bilibili": "https://www.bilibili.com"
+    },
+    "generos": [
+      "Acción",
+      "Fantasía",
+      "Artes Marciales",
+      "Donghua"
+    ],
+    "esAnime": false,
+    "esDonghua": true,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 5,
+    "nombreEng": "The Kings Avatar",
+    "nombreJp": "Quan Zhi Gao Shou",
+    "descripcion": "Ye Xiu, leyenda del e-sport Glory, pierde su equipo profesional y vuelve desde cero para demostrar que sigue siendo el mejor.",
+    "imagen": "img/placeholder.png",
+    "anio": 2017,
+    "temporadas": 2,
+    "episodios": 24,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "E-sports",
+      "Acción",
+      "Drama",
+      "Donghua"
+    ],
+    "esAnime": false,
+    "esDonghua": true,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 6,
+    "nombreEng": "Akira",
+    "nombreJp": "Akira",
+    "descripcion": "En un Neo-Tokio postapocalíptico, un experimento militar desata poderes psíquicos incontrolables que podrían destruirlo todo.",
+    "imagen": "img/placeholder.png",
+    "anio": 1988,
+    "temporadas": 1,
+    "episodios": 1,
+    "plataformas": {
+      "Prime Video": "https://www.primevideo.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Ciencia Ficción",
+      "Acción",
+      "Cyberpunk"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": false,
+    "esPelicula": true
+  },
+  {
+    "id": 7,
+    "nombreEng": "I Parry Everything",
+    "nombreJp": "Ore wa Subete o 'Parry' Suru",
+    "descripcion": "Un aventurero adquiere la habilidad definitiva para desviar cualquier ataque, embarcándose en una aventura llena de humor y acción.",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": 1,
+    "episodios": 12,
+    "plataformas": {
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Fantasía",
+      "Aventura",
+      "Comedia"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 8,
+    "nombreEng": "Solo Leveling",
+    "nombreJp": "Ore Dake Level Up na Ken",
+    "descripcion": "Sung Jinwoo, el cazador más débil, obtiene una habilidad única que le permite evolucionar sin límites.",
+    "imagen": "img/placeholder.png",
+    "anio": 2024,
+    "temporadas": 2,
+    "episodios": 24,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Fantasía",
+      "Sobrenatural"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 9,
+    "nombreEng": "Lazarus",
+    "nombreJp": "Lazarus",
+    "descripcion": "Un equipo élite investiga un misterioso fármaco que podría provocar el colapso global. Serie original de Shinichiro Watanabe.",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "HBO Max": "https://www.max.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Ciencia Ficción",
+      "Acción",
+      "Thriller"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 10,
+    "nombreEng": "The Devouring Whale Homecoming",
+    "nombreJp": "Tun Shi Ju Zhi Fan Xiang",
+    "descripcion": "Un joven con un poder devorador único regresa a su tierra para enfrentarse a sectas, bestias y fuerzas antiguas.",
+    "imagen": "img/placeholder.png",
+    "anio": 2023,
+    "temporadas": 1,
+    "episodios": 24,
+    "plataformas": {
+      "Mundodonghua": "https://mundodonghua.com"
+    },
+    "generos": [
+      "Acción",
+      "Fantasía",
+      "Donghua"
+    ],
+    "esAnime": false,
+    "esDonghua": true,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 11,
+    "nombreEng": "Wistoria",
+    "nombreJp": "Tsue to Tsurugi no Wistoria",
+    "descripcion": "Will Serfort es un chico sin magia que sueña con escalar la cima de una academia de magos usando solo su espada.",
+    "imagen": "img/placeholder.png",
+    "anio": 2024,
+    "temporadas": 1,
+    "episodios": 12,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Fantasía",
+      "Escolar",
+      "Shonen"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 12,
+    "nombreEng": "Uma Musume Cinderella Gray",
+    "nombreJp": "Uma Musume Cinderella Gray",
+    "descripcion": "Spin-off centrado en Oguri Cap, una chica caballo que lucha por destacar en las carreras bajo una presión brutal.",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Deportes",
+      "Drama",
+      "Slice of Life"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 13,
+    "nombreEng": "Laputa - Castle in the Sky",
+    "nombreJp": "Tenkuu no Shiro Laputa",
+    "descripcion": "Dos jóvenes intentan proteger un misterioso cristal que los conecta con una ciudad flotante perdida en el cielo.",
+    "imagen": "img/placeholder.png",
+    "anio": 1986,
+    "temporadas": 1,
+    "episodios": 1,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Aventura",
+      "Fantasía",
+      "Ciencia ficción"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": false,
+    "esPelicula": true
+  },
+  {
+    "id": 14,
+    "nombreEng": "To Be Hero X",
+    "nombreJp": "Tu Bian Yingxiong X",
+    "descripcion": "En un mundo donde la fe de la gente otorga superpoderes, varios héroes compiten en un violento ranking por ser el número uno.",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": 1,
+    "episodios": 24,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com"
+    },
+    "generos": [
+      "Acción",
+      "Ciencia ficción",
+      "Drama",
+      "Psicológico"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 15,
+    "nombreEng": "The Super Cube",
+    "nombreJp": "Chao Neng Lifang: Chaofan Pian",
+    "descripcion": "Un estudiante corriente obtiene el Super Cube, un sistema espacial que le concede poderes increíbles y lo lanza a un conflicto cósmico.",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": 1,
+    "episodios": 12,
+    "plataformas": {
+      "Bilibili": "https://www.bilibili.com"
+    },
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Fantasía",
+      "Superpoderes"
+    ],
+    "esAnime": false,
+    "esDonghua": true,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 16,
+    "nombreEng": "Attack on titan",
+    "nombreJp": "Shingeki no Kyojin",
+    "descripcion": "La humanidad se refugia tras enormes muros mientras Eren y el Cuerpo de Exploración desafían a los titanes y al propio sistema.",
+    "imagen": "img/placeholder.png",
+    "anio": 2013,
+    "temporadas": 4,
+    "episodios": 94,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Fantasía oscura",
+      "Drama",
+      "Militar"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": true
+  },
+  {
+    "id": 17,
+    "nombreEng": "Shangri-La Frontier",
+    "nombreJp": "Kusoge Hunter, Kamige ni Idoman to su",
+    "descripcion": "Un jugador experto en juegos basura se mete en un VRMMO legendario y lo rompe a base de bugs, builds raras y habilidad bruta.",
+    "imagen": "img/placeholder.png",
+    "anio": 2023,
+    "temporadas": 2,
+    "episodios": 50,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Fantasía",
+      "Videojuegos"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 18,
+    "nombreEng": "Scissor seven",
+    "nombreJp": "Cike Wu Liuqi",
+    "descripcion": "Un peluquero amnésico que corta el pelo barato trabaja como asesino a sueldo chapucero usando unas tijeras como arma.",
+    "imagen": "img/placeholder.png",
+    "anio": 2018,
+    "temporadas": 5,
+    "episodios": 50,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com",
+      "Jkanime": "https://jkanime.net"
+    },
+    "generos": [
+      "Acción",
+      "Comedia",
+      "Artes marciales"
+    ],
+    "esAnime": false,
+    "esDonghua": true,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 19,
+    "nombreEng": "Fist of the North Star",
+    "nombreJp": "Hokuto no Ken",
+    "descripcion": "En un mundo postapocalíptico, Kenshiro usa el letal arte marcial Hokuto Shinken para proteger a los débiles de bandas brutales.",
+    "imagen": "img/placeholder.png",
+    "anio": 1986,
+    "temporadas": 2,
+    "episodios": 152,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "Jkanime": "https://jkanime.net"
+    },
+    "generos": [
+      "Acción",
+      "Artes marciales",
+      "Postapocalíptico",
+      "Shonen"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 20,
+    "nombreEng": "Overlord",
+    "nombreJp": "Overlord",
+    "descripcion": "Un jugador queda atrapado en su MMORPG favorito convertido en el Rey No Muerto Ainz Ooal Gown y decide dominar este nuevo mundo.",
+    "imagen": "img/placeholder.png",
+    "anio": 2015,
+    "temporadas": 4,
+    "episodios": 52,
+    "plataformas": {
+      "Prime Video": "https://www.primevideo.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Isekai",
+      "Fantasía oscura",
+      "Acción"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": true
+  },
+  {
+    "id": 21,
+    "nombreEng": "Demon slayer",
+    "nombreJp": "Kimetsu no Yaiba",
+    "descripcion": "Tanjiro se une a los Cazadores de Demonios para vengar a su familia y encontrar una cura para su hermana Nezuko.",
+    "imagen": "img/placeholder.png",
+    "anio": 2019,
+    "temporadas": 4,
+    "episodios": 63,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Fantasía oscura",
+      "Sobrenatural",
+      "Shonen"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": true
+  },
+  {
+    "id": 22,
+    "nombreEng": "Magi Sinbad",
+    "nombreJp": "Magi: Sinbad no Bouken",
+    "descripcion": "Precuelas de Magi que narran la juventud de Sinbad, desde su infancia hasta convertirse en rey de los siete mares.",
+    "imagen": "img/placeholder.png",
+    "anio": 2016,
+    "temporadas": 1,
+    "episodios": 13,
+    "plataformas": {
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Aventura",
+      "Fantasía",
+      "Acción",
+      "Shonen"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 23,
+    "nombreEng": "One Piece",
+    "nombreJp": "One Piece",
+    "descripcion": "Luffy y los Sombrero de Paja surcan los mares en busca del legendario tesoro One Piece para convertirlo en Rey de los Piratas.",
+    "imagen": "img/placeholder.png",
+    "anio": 1999,
+    "temporadas": 21,
+    "episodios": 1150,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Aventura",
+      "Acción",
+      "Comedia",
+      "Fantasía",
+      "Shonen"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": true
+  },
+  {
+    "id": 24,
+    "nombreEng": "Fate Apocrypha",
+    "nombreJp": "Fate/Apocrypha",
+    "descripcion": "En una línea alternativa de Fate, dos facciones de magos libran una guerra santa con siete Servants por bando.",
+    "imagen": "img/placeholder.png",
+    "anio": 2017,
+    "temporadas": 1,
+    "episodios": 25,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Fantasía",
+      "Sobrenatural",
+      "Bélico"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 25,
+    "nombreEng": "Hunter x Hunter",
+    "nombreJp": "Hunter x Hunter (2011)",
+    "descripcion": "Gon se convierte en aspirante a Hunter para encontrar a su padre y se enfrenta a pruebas mortales junto a sus amigos.",
+    "imagen": "img/placeholder.png",
+    "anio": 2011,
+    "temporadas": 6,
+    "episodios": 148,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Fantasía",
+      "Shonen"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": true
+  },
+  {
+    "id": 26,
+    "nombreEng": "Ishura",
+    "nombreJp": "Ishura",
+    "descripcion": "Tras la muerte del Rey Demonio, héroes de distintas razas compiten para demostrar quién es el verdadero guerrero más fuerte.",
+    "imagen": "img/placeholder.png",
+    "anio": 2024,
+    "temporadas": 2,
+    "episodios": 24,
+    "plataformas": {
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Fantasía oscura"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 27,
+    "nombreEng": "The Daily Life of the Immortal King",
+    "nombreJp": "Xian Wang de Richang Shenghuo",
+    "descripcion": "Wang Ling es un genio de la cultivación que intenta llevar una vida escolar normal ocultando su poder casi infinito.",
+    "imagen": "img/placeholder.png",
+    "anio": 2020,
+    "temporadas": 5,
+    "episodios": 60,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "Jkanime": "https://jkanime.net"
+    },
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Comedia",
+      "Fantasía",
+      "Sobrenatural",
+      "Xianxia"
+    ],
+    "esAnime": false,
+    "esDonghua": true,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 28,
+    "nombreEng": "Toward the Terra",
+    "nombreJp": "Terra e...",
+    "descripcion": "En un futuro lejano, un joven descubre que pertenece a los Mu, humanos psíquicos perseguidos que sueñan con volver a la Tierra.",
+    "imagen": "img/placeholder.png",
+    "anio": 1980,
+    "temporadas": 1,
+    "episodios": 1,
+    "plataformas": {
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Ciencia ficción",
+      "Drama",
+      "Espacial"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": false,
+    "esPelicula": true
+  },
+  {
+    "id": 29,
+    "nombreEng": "Moonrise (Rebelion Lunar)",
+    "nombreJp": "Mūnraizu",
+    "descripcion": "En un futuro donde la Luna se rebela contra la Tierra, un joven soldado se ve atrapado entre ambos bandos en guerra.",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": 1,
+    "episodios": 18,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com"
+    },
+    "generos": [
+      "Ciencia ficción",
+      "Acción",
+      "Drama"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 30,
+    "nombreEng": "Kaiju no 8",
+    "nombreJp": "Kaijuu 8-gou",
+    "descripcion": "Kafka obtiene el poder de transformarse en kaiju y se une a las Fuerzas de Defensa para proteger Japón desde dentro.",
+    "imagen": "img/placeholder.png",
+    "anio": 2024,
+    "temporadas": 2,
+    "episodios": 23,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Ciencia ficción",
+      "Militar",
+      "Kaiju",
+      "Shonen"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 31,
+    "nombreEng": "Jujutsu Kaisen",
+    "nombreJp": "Jujutsu Kaisen",
+    "descripcion": "Un estudiante se convierte en huésped de Sukuna y entra en la escuela de hechiceros para cazar maldiciones y salvar a quienes le rodean.",
+    "imagen": "img/placeholder.png",
+    "anio": 2020,
+    "temporadas": 2,
+    "episodios": 47,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Sobrenatural",
+      "Fantasía oscura",
+      "Shounen"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": true
+  },
+  {
+    "id": 32,
+    "nombreEng": "Fire Force",
+    "nombreJp": "Enen no Shouboutai",
+    "descripcion": "En un mundo donde la gente estalla en llamas, la Compañía 8 combate a los Infernales mientras descubre una conspiración que amenaza el mundo.",
+    "imagen": "img/placeholder.png",
+    "anio": 2019,
+    "temporadas": 3,
+    "episodios": 60,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Sobrenatural",
+      "Sci-fi",
+      "Shounen"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 33,
+    "nombreEng": "Biao Ren: Blades of the Guardians",
+    "nombreJp": "Biao Ren",
+    "descripcion": "Un escolta errante protege caravanas en la China antigua, enfrentándose a asesinos, clanes rivales y conspiraciones del imperio.",
+    "imagen": "img/placeholder.png",
+    "anio": 2023,
+    "temporadas": 1,
+    "episodios": 15,
+    "plataformas": {
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Artes marciales",
+      "Histórico",
+      "Seinen"
+    ],
+    "esAnime": false,
+    "esDonghua": true,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 34,
+    "nombreEng": "Fate Grand Order",
+    "nombreJp": "Fate/Grand Order: Zettai Majuu Sensen Babylonia",
+    "descripcion": "Chaldea viaja al pasado para corregir singularidades; en Babilonia enfrentan a dioses, bestias demoníacas y una guerra por la humanidad.",
+    "imagen": "img/placeholder.png",
+    "anio": 2019,
+    "temporadas": 1,
+    "episodios": 21,
+    "plataformas": {
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Fantasía",
+      "Sobrenatural"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": true
+  },
+  {
+    "id": 35,
+    "nombreEng": "Vampire Hunter D",
+    "nombreJp": "Vampire Hunter D",
+    "descripcion": "En un futuro gótico, el cazador mitad humano mitad vampiro D es contratado para rescatar a una joven raptada por un noble vampiro.",
+    "imagen": "img/placeholder.png",
+    "anio": 1985,
+    "temporadas": 1,
+    "episodios": 1,
+    "plataformas": {
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Terror",
+      "Fantasía oscura"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": false,
+    "esPelicula": true
+  },
+  {
+    "id": 36,
+    "nombreEng": "Gachiakuta",
+    "nombreJp": "Gachiakuta",
+    "descripcion": "Rudo, arrojado a un vertedero condenado, descubre poderes letales en un mundo de basura y castas mientras lucha por limpiar la injusticia.",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": 1,
+    "episodios": 20,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com"
+    },
+    "generos": [
+      "Acción",
+      "Fantasía oscura",
+      "Distopía",
+      "Shounen"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 37,
+    "nombreEng": "Black Clover",
+    "nombreJp": "Black Clover",
+    "descripcion": "Asta, nacido sin magia en un mundo de magos, lucha con su espada antimagia para cumplir su sueño de convertirse en Rey Mago.",
+    "imagen": "img/placeholder.png",
+    "anio": 2017,
+    "temporadas": 4,
+    "episodios": 170,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Fantasía",
+      "Aventura",
+      "Shounen"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": true
+  },
+  {
+    "id": 38,
+    "nombreEng": "Arknights",
+    "nombreJp": "Arknights",
+    "descripcion": "Rhodes Island combate una plaga incurable y grupos terroristas en un mundo industrializado por el Originium y la magia tecnológica.",
+    "imagen": "img/placeholder.png",
+    "anio": 2022,
+    "temporadas": 3,
+    "episodios": 26,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Sci-fi",
+      "Drama"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 39,
+    "nombreEng": "Grave of the Fireflies",
+    "nombreJp": "Hotaru no Haka",
+    "descripcion": "Dos hermanos intentan sobrevivir en Japón durante la Segunda Guerra Mundial, aferrándose a su inocencia en medio de la tragedia.",
+    "imagen": "img/placeholder.png",
+    "anio": 1988,
+    "temporadas": 1,
+    "episodios": 1,
+    "plataformas": {
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Drama",
+      "Bélico",
+      "Tragedia"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": false,
+    "esPelicula": true
+  },
+  {
+    "id": 40,
+    "nombreEng": "Legend of Korra",
+    "nombreJp": "The Legend of Korra",
+    "descripcion": "Secuela de Avatar: Korra, la nueva Avatar, lucha por el equilibrio entre el mundo físico y espiritual frente a revoluciones y guerras.",
+    "imagen": "img/placeholder.png",
+    "anio": 2012,
+    "temporadas": 4,
+    "episodios": 52,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com"
+    },
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Fantasía",
+      "Steampunk"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 41,
+    "nombreEng": "Please Spare, My Life",
+    "nombreJp": "Da Wang Rao Ming",
+    "descripcion": "Un joven extremadamente poderoso intenta ocultar sus habilidades mientras enfrenta enemigos que lo persiguen sin descanso.",
+    "imagen": "img/placeholder.png",
+    "anio": 2020,
+    "temporadas": 2,
+    "episodios": 32,
+    "plataformas": {
+      "Jkanime": "https://jkanime.net"
+    },
+    "generos": [
+      "Acción",
+      "Comedia",
+      "Artes marciales",
+      "Fantasía"
+    ],
+    "esAnime": false,
+    "esDonghua": true,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 42,
+    "nombreEng": "Big Fish & Begonia",
+    "nombreJp": "Da Yu Hai Tang",
+    "descripcion": "Una joven espíritu humana desencadena un viaje emocional tras salvar a un humano, alterando el equilibrio entre ambos mundos.",
+    "imagen": "img/placeholder.png",
+    "anio": 2016,
+    "temporadas": 1,
+    "episodios": 1,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com"
+    },
+    "generos": [
+      "Fantasía",
+      "Drama",
+      "Romance",
+      "Aventura"
+    ],
+    "esAnime": false,
+    "esDonghua": true,
+    "esSerie": false,
+    "esPelicula": true
+  },
+  {
+    "id": 43,
+    "nombreEng": "No Game No Life",
+    "nombreJp": "No Game No Life",
+    "descripcion": "Sora y Shiro, genios del gaming, son transportados a un mundo donde todo se decide mediante juegos.",
+    "imagen": "img/placeholder.png",
+    "anio": 2014,
+    "temporadas": 1,
+    "episodios": 12,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Fantasía",
+      "Aventura",
+      "Comedia",
+      "Isekai"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": true
+  },
+  {
+    "id": 44,
+    "nombreEng": "Rakshasa Street",
+    "nombreJp": "Zhen Hun Jie",
+    "descripcion": "En una calle donde humanos y espíritus coexisten, los guardianes luchan para mantener el orden entre mundos.",
+    "imagen": "img/placeholder.png",
+    "anio": 2016,
+    "temporadas": 3,
+    "episodios": 39,
+    "plataformas": {
+      "Jkanime": "https://jkanime.net"
+    },
+    "generos": [
+      "Acción",
+      "Sobrenatural",
+      "Fantasía oscura"
+    ],
+    "esAnime": false,
+    "esDonghua": true,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 45,
+    "nombreEng": "Made in Abyss",
+    "nombreJp": "Made in Abyss",
+    "descripcion": "Riko y el androide Reg descienden al Abyss, un gigantesco abismo lleno de criaturas y secretos mortales.",
+    "imagen": "img/placeholder.png",
+    "anio": 2017,
+    "temporadas": 2,
+    "episodios": 25,
+    "plataformas": {
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Aventura",
+      "Fantasía oscura",
+      "Drama"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 46,
+    "nombreEng": "Tokyo Ghoul",
+    "nombreJp": "Tokyo Ghoul",
+    "descripcion": "Kaneki se convierte en mitad ghoul tras un accidente y debe sobrevivir entre humanos y criaturas que se alimentan de ellos.",
+    "imagen": "img/placeholder.png",
+    "anio": 2014,
+    "temporadas": 4,
+    "episodios": 48,
+    "plataformas": {
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Terror",
+      "Acción",
+      "Fantasía oscura",
+      "Seinen"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 47,
+    "nombreEng": "Bleach",
+    "nombreJp": "Bleach",
+    "descripcion": "Ichigo Kurosaki obtiene poderes de shinigami y protege a los humanos de espíritus malignos llamados Hollows.",
+    "imagen": "img/placeholder.png",
+    "anio": 2004,
+    "temporadas": 17,
+    "episodios": 392,
+    "plataformas": {
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Sobrenatural",
+      "Fantasía",
+      "Shounen"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": true
+  },
+  {
+    "id": 48,
+    "nombreEng": "Death Note",
+    "nombreJp": "Death Note",
+    "descripcion": "Light Yagami encuentra un cuaderno capaz de matar a cualquiera cuyo nombre sea escrito, iniciando un duelo intelectual con L.",
+    "imagen": "img/placeholder.png",
+    "anio": 2006,
+    "temporadas": 1,
+    "episodios": 37,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Suspenso",
+      "Psicológico",
+      "Sobrenatural",
+      "Misterio"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 49,
+    "nombreEng": "Your Name",
+    "nombreJp": "Kimi no Na wa",
+    "descripcion": "Dos jóvenes conectan a través de intercambios de cuerpo que revelan un destino mucho mayor de lo que imaginan.",
+    "imagen": "img/placeholder.png",
+    "anio": 2016,
+    "temporadas": 1,
+    "episodios": 1,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com"
+    },
+    "generos": [
+      "Romance",
+      "Drama",
+      "Fantasía"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": false,
+    "esPelicula": true
+  },
+  {
+    "id": 50,
+    "nombreEng": "Link Click",
+    "nombreJp": "Shiguang Dailiren",
+    "descripcion": "Dos jóvenes viajan dentro de fotografías para resolver casos y ayudar a las personas, alterando a veces más de lo que deberían.",
+    "imagen": "img/placeholder.png",
+    "anio": 2021,
+    "temporadas": 2,
+    "episodios": 24,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "Jkanime": "https://jkanime.net"
+    },
+    "generos": [
+      "Misterio",
+      "Sobrenatural",
+      "Drama",
+      "Thriller"
+    ],
+    "esAnime": false,
+    "esDonghua": true,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 51,
+    "nombreEng": "One Punch Man",
+    "nombreJp": "One Punch Man",
+    "descripcion": "Saitama, un héroe capaz de derrotar a cualquier enemigo de un solo golpe, busca un rival que lo desafíe de verdad.",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": 3,
+    "episodios": 36,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Comedia",
+      "Parodia",
+      "Superhéroes"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": true
+  },
+  {
+    "id": 52,
+    "nombreEng": "Terra Formars",
+    "nombreJp": "Terra Formars",
+    "descripcion": "La humanidad envía soldados modificados genéticamente a Marte para luchar contra criaturas mutadas extremadamente peligrosas.",
+    "imagen": "img/placeholder.png",
+    "anio": 2014,
+    "temporadas": 2,
+    "episodios": 26,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Sci-fi",
+      "Terror",
+      "Seinen"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 53,
+    "nombreEng": "DanDaDan",
+    "nombreJp": "Dandadan",
+    "descripcion": "Dos estudiantes envueltos en fenómenos sobrenaturales y alienígenas cooperan para sobrevivir a encuentros cada vez más absurdos.",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": 1,
+    "episodios": 12,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Comedia",
+      "Sobrenatural",
+      "Romance"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 54,
+    "nombreEng": "Frieren",
+    "nombreJp": "Sousou no Frieren",
+    "descripcion": "Frieren, una elfa inmortal, emprende un viaje para comprender a los humanos tras la muerte de sus antiguos compañeros héroes.",
+    "imagen": "img/placeholder.png",
+    "anio": 2023,
+    "temporadas": 1,
+    "episodios": 28,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Fantasía",
+      "Aventura",
+      "Drama"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 55,
+    "nombreEng": "Nier Automata Ver1.1a",
+    "nombreJp": "NieR:Automata Ver1.1a",
+    "descripcion": "Androides como 2B y 9S luchan para recuperar la Tierra de máquinas alienígenas en una guerra sin fin.",
+    "imagen": "img/placeholder.png",
+    "anio": 2023,
+    "temporadas": 2,
+    "episodios": 24,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Sci-fi",
+      "Acción",
+      "Drama",
+      "Filosófico"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 56,
+    "nombreEng": "Hells Paradise",
+    "nombreJp": "Jigokuraku",
+    "descripcion": "Criminales y verdugos son enviados a una isla misteriosa llena de monstruos y peligros sobrenaturales en busca del elixir de la vida.",
+    "imagen": "img/placeholder.png",
+    "anio": 2023,
+    "temporadas": 1,
+    "episodios": 13,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Fantasía oscura",
+      "Shounen"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 57,
+    "nombreEng": "Chainsaw Man",
+    "nombreJp": "Chainsaw Man",
+    "descripcion": "Denji, fusionado con el demonio Pochita, se convierte en un híbrido motosierra para luchar contra demonios y sobrevivir al caos.",
+    "imagen": "img/placeholder.png",
+    "anio": 2022,
+    "temporadas": 1,
+    "episodios": 12,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Fantasía oscura",
+      "Terror"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 58,
+    "nombreEng": "Ankama Animations",
+    "nombreJp": "Wakfu / Dofus",
+    "descripcion": "Serie francesa basada en el universo del videojuego DOFUS/Wakfu, repleta de magia, aventuras y un estilo visual único.",
+    "imagen": "img/placeholder.png",
+    "anio": 2007,
+    "temporadas": 4,
+    "episodios": 70,
+    "plataformas": {
+      "Youtube": "https://www.youtube.com"
+    },
+    "generos": [
+      "Aventura",
+      "Fantasía",
+      "Magia"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": true
+  },
+  {
+    "id": 59,
+    "nombreEng": "Soul Eater",
+    "nombreJp": "Soul Eater",
+    "descripcion": "En la DWMA, jóvenes técnicos y armas humanas luchan contra criaturas malignas para mantener el equilibrio del mundo.",
+    "imagen": "img/placeholder.png",
+    "anio": 2008,
+    "temporadas": 1,
+    "episodios": 51,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Comedia",
+      "Fantasía oscura"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 60,
+    "nombreEng": "Eternal Quon",
+    "nombreJp": "Towa no Quon",
+    "descripcion": "Humanos con habilidades especiales luchan por sobrevivir frente a organizaciones que los persiguen sin descanso.",
+    "imagen": "img/placeholder.png",
+    "anio": 2011,
+    "temporadas": 1,
+    "episodios": 6,
+    "plataformas": {
+      "AnimeFLV(roto)": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Sci-fi",
+      "Acción",
+      "Superpoderes"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": false,
+    "esPelicula": true
+  },
+  {
+    "id": 61,
+    "nombreEng": "Lord of Mysteries",
+    "nombreJp": "Mi Shu Zhi Zhu",
+    "descripcion": "En un mundo steampunk lleno de rituales ocultistas, Klein asciende entre secuencias místicas mientras descubre la verdad del universo.",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": 1,
+    "episodios": 24,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com"
+    },
+    "generos": [
+      "Misterio",
+      "Fantasía oscura",
+      "Steampunk",
+      "Sobrenatural"
+    ],
+    "esAnime": false,
+    "esDonghua": true,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 62,
+    "nombreEng": "How to Be God",
+    "nombreJp": "Zen Shen",
+    "descripcion": "Un joven adquiere el poder de cambiar su destino mientras se enfrenta a fuerzas divinas y misterios que alteran su mundo.",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": 1,
+    "episodios": 16,
+    "plataformas": {},
+    "generos": [
+      "Fantasía",
+      "Acción",
+      "Sobrenatural"
+    ],
+    "esAnime": false,
+    "esDonghua": true,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 63,
+    "nombreEng": "7Fates: Chakho",
+    "nombreJp": "",
+    "descripcion": "Un grupo de jóvenes elegidos combate criaturas sobrenaturales llamadas beom en una ciudad futurista inspirada por BTS.",
+    "imagen": "img/placeholder.png",
+    "anio": 2022,
+    "temporadas": 1,
+    "episodios": 8,
+    "plataformas": {
+      "Webtoons": "https://www.webtoons.com"
+    },
+    "generos": [
+      "Acción",
+      "Fantasía urbana",
+      "Sobrenatural"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 64,
+    "nombreEng": "Katsugeki Touken Ranbu",
+    "nombreJp": "Katsugeki/Touken Ranbu",
+    "descripcion": "Espíritus guerreros con forma humana viajan en el tiempo para proteger la historia de enemigos que intentan reescribirla.",
+    "imagen": "img/placeholder.png",
+    "anio": 2017,
+    "temporadas": 1,
+    "episodios": 13,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Histórico",
+      "Fantasia"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 65,
+    "nombreEng": "009 Re:Cyborg",
+    "nombreJp": "009 Re:Cyborg",
+    "descripcion": "Los cyborgs de la fuerza 00 vuelven para enfrentar ataques terroristas globales relacionados con una misteriosa figura llamada Su Voz.",
+    "imagen": "img/placeholder.png",
+    "anio": 2012,
+    "temporadas": 1,
+    "episodios": 1,
+    "plataformas": {
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Sci-fi",
+      "Acción",
+      "Superpoderes"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": false,
+    "esPelicula": true
+  },
+  {
+    "id": 66,
+    "nombreEng": "Mushoku Tensei",
+    "nombreJp": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+    "descripcion": "Un hombre reencarna en un mundo mágico y decide aprovechar su nueva vida para convertirse en un mago extraordinario.",
+    "imagen": "img/placeholder.png",
+    "anio": 2021,
+    "temporadas": 2,
+    "episodios": 37,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Isekai",
+      "Fantasía",
+      "Aventura",
+      "Drama"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 67,
+    "nombreEng": "Journey to the West",
+    "nombreJp": "Xi You Ji",
+    "descripcion": "Adaptación china del clásico viaje del Rey Mono y sus compañeros en busca de escrituras sagradas.",
+    "imagen": "img/placeholder.png",
+    "anio": 1999,
+    "temporadas": 1,
+    "episodios": 52,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "Jkanime": "https://jkanime.net"
+    },
+    "generos": [
+      "Aventura",
+      "Fantasía",
+      "Mitología"
+    ],
+    "esAnime": false,
+    "esDonghua": true,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 68,
+    "nombreEng": "Kotetsujo no Kabaneri",
+    "nombreJp": "Koutetsujou no Kabaneri",
+    "descripcion": "En un Japón steampunk invadido por zombies metálicos, Ikoma lucha por sobrevivir y proteger la fortaleza móvil Kotetsujo.",
+    "imagen": "img/placeholder.png",
+    "anio": 2016,
+    "temporadas": 1,
+    "episodios": 12,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "Jkanime": "https://jkanime.net"
+    },
+    "generos": [
+      "Acción",
+      "Steampunk",
+      "Terror",
+      "Aventura"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 69,
+    "nombreEng": "Apukunapa Kutimuynin: El renacer de los dioses",
+    "nombreJp": "",
+    "descripcion": "Serie peruana inspirada en mitología andina donde jóvenes elegidos despiertan los poderes de antiguos dioses.",
+    "imagen": "img/placeholder.png",
+    "anio": 2024,
+    "temporadas": 1,
+    "episodios": 10,
+    "plataformas": {
+      "Youtube": "https://www.youtube.com"
+    },
+    "generos": [
+      "Fantasía",
+      "Mitología",
+      "Aventura"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 70,
+    "nombreEng": "Bungo Stray Dogs",
+    "nombreJp": "Bungou Stray Dogs",
+    "descripcion": "Detectives con habilidades sobrenaturales inspiradas en autores literarios combaten organizaciones criminales en Yokohama.",
+    "imagen": "img/placeholder.png",
+    "anio": 2016,
+    "temporadas": 5,
+    "episodios": 63,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Misterio",
+      "Sobrenatural"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": true
+  },
+  {
+    "id": 71,
+    "nombreEng": "Hitori no Shita: The Outcast",
+    "nombreJp": "Yi Ren Zhi Xia",
+    "descripcion": "Chou Soran ve su vida universitaria patas arriba cuando se cruza con zombis y la misteriosa Houhou, entrando en el mundo secreto de los usuarios de qi.",
+    "imagen": "img/placeholder.png",
+    "anio": 2017,
+    "temporadas": 5,
+    "episodios": 68,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Fantasía",
+      "Sobrenatural",
+      "Artes marciales"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 72,
+    "nombreEng": "Trigun Stampede",
+    "nombreJp": "",
+    "descripcion": "Vash the Stampede, pistolero pacifista con recompensa millonaria, recorre un mundo desértico evitando muertes mientras su pasado le alcanza.",
+    "imagen": "img/placeholder.png",
+    "anio": 2023,
+    "temporadas": 1,
+    "episodios": 12,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Ciencia ficción",
+      "Aventura",
+      "Western espacial"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 73,
+    "nombreEng": "Hell teacher",
+    "nombreJp": "Jigoku Sensei Nube",
+    "descripcion": "El profesor Nube protege a sus alumnos de yokais y maldiciones usando su mano demoníaca, mezclando terror noventero con comedia escolar.",
+    "imagen": "img/placeholder.png",
+    "anio": 1996,
+    "temporadas": 1,
+    "episodios": 49,
+    "plataformas": {
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Terror",
+      "Comedia",
+      "Sobrenatural",
+      "Escolar"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": true
+  },
+  {
+    "id": 74,
+    "nombreEng": "Onmyo Kaiten Re-Birth",
+    "nombreJp": "",
+    "descripcion": "El macarra Takeru es enviado a un Kioto futurista tipo era Heian y revive en bucle mientras lucha como onmyoji para proteger a Tsukimiya de espíritus y yokais.",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": 1,
+    "episodios": 12,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Fantasía",
+      "Sobrenatural",
+      "Viajes en el tiempo"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 75,
+    "nombreEng": "Clevatess",
+    "nombreJp": "Majuu no Ou to Akago to Shikabane no Yuusha",
+    "descripcion": "El rey monstruo Clevatess protege a un misterioso bebé en un mundo de humanos y héroes, desatando una fantasía oscura llena de batallas brutales.",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": 1,
+    "episodios": 12,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Fantasía oscura",
+      "Aventura"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 76,
+    "nombreEng": "Silent Witch",
+    "nombreJp": "Silent Witch Chinmoku no Majo no Kakushigoto",
+    "descripcion": "Monica, la maga más fuerte del reino y con ansiedad social brutal, se hace pasar por estudiante normal mientras protege en secreto a un príncipe.",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": 1,
+    "episodios": 13,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Fantasía",
+      "Magia",
+      "Escolar"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 77,
+    "nombreEng": "The Water Magician",
+    "nombreJp": "Mizu Zokusei no Mahoutsukai",
+    "descripcion": "Una tímida maga de agua con magia única se ve arrastrada a intrigas de reinos y demonios, obligada a usar su poder para cambiar el mundo.",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": 1,
+    "episodios": 12,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Fantasía",
+      "Magia",
+      "Aventura",
+      "Drama"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 78,
+    "nombreEng": "Hikaru ga shinda natsu",
+    "nombreJp": "Hikaru ga shinda natsu",
+    "descripcion": "Yoshiki sospecha que algo inhumano ocupa el cuerpo de su amigo Hikaru y, entre horror rural y tensión queer, decide seguir a su lado pase lo que pase.",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": 1,
+    "episodios": 12,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Terror",
+      "Drama",
+      "Recuentos de la vida",
+      "Seinen"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": true
+  },
+  {
+    "id": 79,
+    "nombreEng": "Tougen Anki",
+    "nombreJp": "",
+    "descripcion": "Shiki descubre que es descendiente de oni y entra en una guerra sangrienta contra los Momotarou, con combates de sangre y habilidades sobrenaturales.",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": 1,
+    "episodios": 19,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Fantasía oscura",
+      "Sobrenatural",
+      "Shounen"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 80,
+    "nombreEng": "So I'm a Spider, So What?",
+    "nombreJp": "Kumo desu ga, Nani ka?",
+    "descripcion": "Una estudiante reencarna como araña en una mazmorra letal y, tirando de ingenio y evoluciones RPG, intenta sobrevivir mientras el mundo se acerca al desastre.",
+    "imagen": "img/placeholder.png",
+    "anio": 2021,
+    "temporadas": 1,
+    "episodios": 24,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Fantasía",
+      "Isekai",
+      "Comedia"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 81,
+    "nombreEng": "Goblin Slayer",
+    "nombreJp": "",
+    "descripcion": "Un aventurero obsesionado con exterminar goblins usa tácticas brutales para proteger a los débiles en un mundo de fantasía oscura.",
+    "imagen": "img/placeholder.png",
+    "anio": 2018,
+    "temporadas": 2,
+    "episodios": 24,
+    "plataformas": {
+      "Prime Video": "https://www.primevideo.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Fantasía oscura",
+      "Aventura"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": true
+  },
+  {
+    "id": 82,
+    "nombreEng": "Bloody Scape, Bats out of hell",
+    "nombreJp": "Jigoku no Tousou Geki",
+    "descripcion": "Criaturas demoníacas, caos urbano y acción sin frenos en una historia violenta donde la supervivencia es lo único que importa.",
+    "imagen": "img/placeholder.png",
+    "anio": 2024,
+    "temporadas": 1,
+    "episodios": 10,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "Prime Video": "https://www.primevideo.com"
+    },
+    "generos": [
+      "Acción",
+      "Terror",
+      "Sobrenatural"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": true
+  },
+  {
+    "id": 83,
+    "nombreEng": "Yaiba Samurai Legend",
+    "nombreJp": "",
+    "descripcion": "Nueva adaptación del shonen clásico Yaiba, donde un joven samurái lucha contra demonios y villanos para volverse más fuerte.",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": 1,
+    "episodios": 24,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Comedia",
+      "Samuráis"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 84,
+    "nombreEng": "The Promised Neverland",
+    "nombreJp": "Yakusoku no Neverland",
+    "descripcion": "Emma y sus amigos descubren el oscuro secreto del orfanato y planean escapar antes de ser enviados a su destino final.",
+    "imagen": "img/placeholder.png",
+    "anio": 2019,
+    "temporadas": 2,
+    "episodios": 23,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "Netflix": "https://www.netflix.com"
+    },
+    "generos": [
+      "Suspenso",
+      "Psicológico",
+      "Drama",
+      "Misterio"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 85,
+    "nombreEng": "Darling in the Franxx",
+    "nombreJp": "",
+    "descripcion": "En un mundo devastado, jóvenes pilotos deben sincronizarse emocionalmente para controlar mechas y proteger a la humanidad.",
+    "imagen": "img/placeholder.png",
+    "anio": 2018,
+    "temporadas": 1,
+    "episodios": 24,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Mecha",
+      "Sci-fi",
+      "Drama",
+      "Romance"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 86,
+    "nombreEng": "Dusk Beyond the End",
+    "nombreJp": "Towa no Yugure",
+    "descripcion": "Una historia postapocalíptica donde los últimos humanos luchan contra seres de las sombras en un mundo al borde del ocaso eterno.",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": 1,
+    "episodios": 12,
+    "plataformas": {
+      "AnimeAV1": "https://animeav1.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Sci-fi",
+      "Acción",
+      "Drama",
+      "Apocalipsis"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 87,
+    "nombreEng": "Mugen Gacha My Gift Lvl 9999 Unlimited",
+    "nombreJp": "Mugen Gacha",
+    "descripcion": "Un chico exiliado de su reino obtiene un poder de gacha ilimitado con el que invoca aliados y monstruos para buscar venganza.",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": 1,
+    "episodios": 12,
+    "plataformas": {
+      "AnimeAV1": "https://animeav1.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Isekai",
+      "Fantasía",
+      "Venganza"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 88,
+    "nombreEng": "Sanda",
+    "nombreJp": "",
+    "descripcion": "En un Japón donde Santa Claus es real y peligroso, jóvenes luchan por sobrevivir en una satírica guerra navideña.",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": 1,
+    "episodios": 13,
+    "plataformas": {
+      "PrimeVideo": "https://www.primevideo.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Comedia negra",
+      "Fantasia",
+      "Seinen"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 89,
+    "nombreEng": "A Wild Last Boss Appeared!",
+    "nombreJp": "Lasboss Yattekimashita!",
+    "descripcion": "Un jugador reencarna en el mundo de su juego como la jefa final y debe sobrevivir entre facciones que desean eliminarla.",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": 1,
+    "episodios": 12,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Isekai",
+      "Acción",
+      "Fantasía",
+      "Aventura"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 90,
+    "nombreEng": "Ranma ½",
+    "nombreJp": "",
+    "descripcion": "Ranma se transforma en chica con agua fría debido a una maldición, provocando enredos cómicos y artes marciales alocadas.",
+    "imagen": "img/placeholder.png",
+    "anio": 2024,
+    "temporadas": 1,
+    "episodios": 24,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Comedia",
+      "Artes marciales",
+      "Romance"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 91,
+    "nombreEng": "Dragon Raja",
+    "nombreJp": "",
+    "descripcion": "Estudiantes con sangre de dragón se enfrentan a complots sobrenaturales y amenazas antiguas.",
+    "imagen": "img/placeholder.png",
+    "anio": 2022,
+    "temporadas": 1,
+    "episodios": 17,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Fantasía",
+      "Sobrenatural"
+    ],
+    "esAnime": false,
+    "esDonghua": true,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 92,
+    "nombreEng": "The Eminence in Shadow",
+    "nombreJp": "Kage no Jitsuryokusha ni Naritakute!",
+    "descripcion": "Cid quiere ser una figura que opere desde las sombras, sin saber que su organización inventada se vuelve real.",
+    "imagen": "img/placeholder.png",
+    "anio": 2022,
+    "temporadas": 2,
+    "episodios": 32,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Isekai",
+      "Acción",
+      "Comedia"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 93,
+    "nombreEng": "My Status as an Assassin Obviously Exceeds the Hero's",
+    "nombreJp": "Ansatsu-sha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
+    "descripcion": "Un estudiante invocado a otro mundo recibe el rol de asesino y descubre que supera al héroe elegido.",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": 1,
+    "episodios": 12,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Isekai",
+      "Acción",
+      "Aventura"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 94,
+    "nombreEng": "Gnosia",
+    "nombreJp": "Gnosia",
+    "descripcion": "Una amenaza infiltrada en una nave obliga a la tripulación a descubrir quién está mintiendo entre bucles temporales.",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": 1,
+    "episodios": 12,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Misterio",
+      "Sci-fi",
+      "Thriller"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 95,
+    "nombreEng": "Akame Ga Kill",
+    "nombreJp": "Akame ga Kill!",
+    "descripcion": "Night Raid lucha contra un imperio corrupto en una historia brutal llena de acción y tragedia.",
+    "imagen": "img/placeholder.png",
+    "anio": 2014,
+    "temporadas": 1,
+    "episodios": 24,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Fantasía oscura"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 96,
+    "nombreEng": "Cyberpunk Edgerunners",
+    "nombreJp": "Cyberpunk Edgerunners",
+    "descripcion": "David se adentra en el mundo criminal de Night City para sobrevivir como edgerunner.",
+    "imagen": "img/placeholder.png",
+    "anio": 2022,
+    "temporadas": 1,
+    "episodios": 10,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Sci-fi",
+      "Acción",
+      "Drama"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 97,
+    "nombreEng": "Digimon Beatbreak",
+    "nombreJp": "",
+    "descripcion": "Nueva entrega de Digimon con un enfoque rítmico donde la sincronía decide las batallas.",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": 1,
+    "episodios": 20,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Sci-fi"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": true
+  },
+  {
+    "id": 98,
+    "nombreEng": "Kingdoms of Ruin",
+    "nombreJp": "Hametsu no Oukoku",
+    "descripcion": "Tras la ejecución de las brujas, un joven busca venganza contra un imperio que erradicó la magia.",
+    "imagen": "img/placeholder.png",
+    "anio": 2023,
+    "temporadas": 1,
+    "episodios": 12,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Fantasía oscura",
+      "Drama"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 99,
+    "nombreEng": "Chained Soldier",
+    "nombreJp": "Mato Seihei no Slave",
+    "descripcion": "Yuki es obligado a servir en un escuadrón femenino con habilidades sobrenaturales para luchar contra criaturas de otra dimensión.",
+    "imagen": "img/placeholder.png",
+    "anio": 2024,
+    "temporadas": 1,
+    "episodios": 12,
+    "plataformas": {
+      "Prime Video": "https://www.primevideo.com",
+      "AnimeFLV": "https://www3.animeflv.net"
+    },
+    "generos": [
+      "Acción",
+      "Sobrenatural",
+      "Harem",
+      "Fantasía"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 100,
+    "nombreEng": "Reincarnated as a Sword",
+    "nombreJp": "Tensei shitara Ken deshita",
+    "descripcion": "Un hombre reencarna como espada mágica y forma tándem con Fran, una joven guerrera que busca libertad.",
+    "imagen": "img/placeholder.png",
+    "anio": 2022,
+    "temporadas": 1,
+    "episodios": 12,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com"
+    },
+    "generos": [
+      "Isekai",
+      "Aventura",
+      "Acción"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 101,
+    "nombreEng": "Vinland Saga",
+    "nombreJp": "Vinland Saga",
+    "descripcion": "Thorfinn, un joven guerrero vikingo, busca venganza mientras vive el horror de la guerra y el costo de la violencia.",
+    "imagen": "img/placeholder.png",
+    "anio": 2019,
+    "temporadas": 2,
+    "episodios": 48,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com"
+    },
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Histórico",
+      "Drama"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 102,
+    "nombreEng": "Castelvania",
+    "nombreJp": "Castlevania",
+    "descripcion": "Inspirado en la saga de videojuegos, sigue a Trevor Belmont contra Drácula y su ejército de criaturas de la noche.",
+    "imagen": "img/placeholder.png",
+    "anio": 2017,
+    "temporadas": 4,
+    "episodios": 32,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com"
+    },
+    "generos": [
+      "Acción",
+      "Fantasía oscura",
+      "Vampiros"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 103,
+    "nombreEng": "Ragna Crimson",
+    "nombreJp": "Ragna Crimson",
+    "descripcion": "Ragna se alía con el enigmático Crimson para exterminar a los dragones que dominan el mundo.",
+    "imagen": "img/placeholder.png",
+    "anio": 2023,
+    "temporadas": 1,
+    "episodios": 24,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com"
+    },
+    "generos": [
+      "Acción",
+      "Fantasía oscura",
+      "Dragones"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 104,
+    "nombreEng": "Blue eyes Samurai",
+    "nombreJp": "Blue Eye Samurai",
+    "descripcion": "Una espadachina mestiza oculta su identidad para vengarse de los hombres que arruinaron su vida en el Japón feudal.",
+    "imagen": "img/placeholder.png",
+    "anio": 2023,
+    "temporadas": 1,
+    "episodios": 8,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com"
+    },
+    "generos": [
+      "Acción",
+      "Samuráis",
+      "Histórico"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 105,
+    "nombreEng": "Kingdom",
+    "nombreJp": "Kingdom",
+    "descripcion": "En la Corea de la dinastía Joseon, un príncipe investiga una misteriosa plaga que transforma a la gente en monstruos.",
+    "imagen": "img/placeholder.png",
+    "anio": 2019,
+    "temporadas": 2,
+    "episodios": 12,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com"
+    },
+    "generos": [
+      "Terror",
+      "Zombis",
+      "Histórico",
+      "Suspense"
+    ],
+    "esAnime": false,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 106,
+    "nombreEng": "Blue Exorcist",
+    "nombreJp": "Ao no Exorcist",
+    "descripcion": "Rin Okumura descubre que es hijo de Satán y decide convertirse en exorcista para enfrentarse a su propio destino.",
+    "imagen": "img/placeholder.png",
+    "anio": 2011,
+    "temporadas": 4,
+    "episodios": 73,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com"
+    },
+    "generos": [
+      "Acción",
+      "Sobrenatural",
+      "Demonios",
+      "Shounen"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 107,
+    "nombreEng": "Sword Art Online",
+    "nombreJp": "Sword Art Online",
+    "descripcion": "Kirito queda atrapado en un MMORPG donde morir en el juego significa morir en la vida real.",
+    "imagen": "img/placeholder.png",
+    "anio": 2012,
+    "temporadas": 3,
+    "episodios": 96,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com"
+    },
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Isekai",
+      "Videojuegos"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 108,
+    "nombreEng": "Devil May Cry",
+    "nombreJp": "Devil May Cry",
+    "descripcion": "Dante, cazador de demonios a sueldo, acepta misiones imposibles mientras lidia con su propio linaje infernal.",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": 1,
+    "episodios": 8,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com"
+    },
+    "generos": [
+      "Acción",
+      "Demonios",
+      "Videojuegos"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 109,
+    "nombreEng": "Seven deadly sins",
+    "nombreJp": "Nanatsu no Taizai",
+    "descripcion": "La princesa Elizabeth busca a los Siete Pecados Capitales para salvar el reino de Liones de la corrupción.",
+    "imagen": "img/placeholder.png",
+    "anio": 2014,
+    "temporadas": 5,
+    "episodios": 100,
+    "plataformas": {},
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Fantasía",
+      "Shounen"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 110,
+    "nombreEng": "Arifureta",
+    "nombreJp": "Arifureta Shokugyou de Sekai Saikyō",
+    "descripcion": "Hajime es traicionado y cae al abismo de un mundo de fantasía, donde se forja desde cero hasta convertirse en el más fuerte.",
+    "imagen": "img/placeholder.png",
+    "anio": 2019,
+    "temporadas": 3,
+    "episodios": 42,
+    "plataformas": {},
+    "generos": [
+      "Acción",
+      "Isekai",
+      "Aventura",
+      "Fantasía"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 111,
+    "nombreEng": "The Unwanted Undead Adventurer",
+    "nombreJp": "Nozomanu Fushi no Boukensha",
+    "descripcion": "Rentt es devorado por un dragón y revive como esqueleto, decidido a recuperar su humanidad explorando mazmorras.",
+    "imagen": "img/placeholder.png",
+    "anio": 2024,
+    "temporadas": 1,
+    "episodios": 12,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com"
+    },
+    "generos": [
+      "Fantasía",
+      "Aventura",
+      "Acción"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 112,
+    "nombreEng": "Legend of Hei 2",
+    "nombreJp": "",
+    "descripcion": "Secuela de la película china 'The Legend of Hei', protagonizada por el espíritu gato Hei.",
+    "imagen": "img/placeholder.png",
+    "anio": 2019,
+    "temporadas": 0,
+    "episodios": 1,
+    "plataformas": {
+      "Youtube": "https://www.youtube.com"
+    },
+    "generos": [
+      "Fantasía",
+      "Aventura"
+    ],
+    "esAnime": false,
+    "esDonghua": true,
+    "esSerie": false,
+    "esPelicula": true
+  },
+  {
+    "id": 113,
+    "nombreEng": "Berserk of Gluttony",
+    "nombreJp": "Boushoku no Berserk",
+    "descripcion": "Fate posee la habilidad de Glotonería, un poder inútil… hasta que descubre que puede absorber fuerza matando enemigos.",
+    "imagen": "img/placeholder.png",
+    "anio": 2023,
+    "temporadas": 1,
+    "episodios": 12,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com"
+    },
+    "generos": [
+      "Acción",
+      "Fantasía oscura"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 114,
+    "nombreEng": "Seraph of the End",
+    "nombreJp": "Owari no Seraph",
+    "descripcion": "Un virus destruye a la humanidad y los vampiros toman el control. Yuichiro se une al ejército para vengar a su familia.",
+    "imagen": "img/placeholder.png",
+    "anio": 2015,
+    "temporadas": 2,
+    "episodios": 24,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com"
+    },
+    "generos": [
+      "Acción",
+      "Sobrenatural",
+      "Vampiros"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 115,
+    "nombreEng": "Deca-Dence",
+    "nombreJp": "Deca-Dence",
+    "descripcion": "Humanos sobreviven en una fortaleza móvil mientras luchan contra los Gadoll, monstruos que dominan la Tierra.",
+    "imagen": "img/placeholder.png",
+    "anio": 2020,
+    "temporadas": 1,
+    "episodios": 12,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com"
+    },
+    "generos": [
+      "Sci-fi",
+      "Acción",
+      "Aventura"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 116,
+    "nombreEng": "Dororo",
+    "nombreJp": "Dororo",
+    "descripcion": "Hyakkimaru busca recuperar su cuerpo robado por demonios al nacer, acompañado por el ladrón niño Dororo.",
+    "imagen": "img/placeholder.png",
+    "anio": 2019,
+    "temporadas": 1,
+    "episodios": 24,
+    "plataformas": {
+      "Amazon Prime": "https://www.primevideo.com"
+    },
+    "generos": [
+      "Acción",
+      "Histórico",
+      "Sobrenatural"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 117,
+    "nombreEng": "Heavenly Delusion",
+    "nombreJp": "Tengoku Daimakyou",
+    "descripcion": "En un Japón postapocalíptico, dos jóvenes buscan un misterioso lugar mientras revelan oscuros experimentos.",
+    "imagen": "img/placeholder.png",
+    "anio": 2023,
+    "temporadas": 1,
+    "episodios": 13,
+    "plataformas": {
+      "Disney+": "https://www.disneyplus.com"
+    },
+    "generos": [
+      "Misterio",
+      "Sci-fi",
+      "Drama"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 118,
+    "nombreEng": "Mob Psycho 100",
+    "nombreJp": "Mob Psycho 100",
+    "descripcion": "Mob, un psíquico tímido con poderes enormes, intenta vivir una vida normal mientras enfrenta amenazas sobrenaturales.",
+    "imagen": "img/placeholder.png",
+    "anio": 2016,
+    "temporadas": 3,
+    "episodios": 37,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com"
+    },
+    "generos": [
+      "Acción",
+      "Sobrenatural",
+      "Comedia"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 119,
+    "nombreEng": "Another World",
+    "nombreJp": "",
+    "descripcion": "Sin título claro: podría referirse a varias obras. Requiere confirmación para completar datos exactos.",
+    "imagen": "img/placeholder.png",
+    "anio": null,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {},
+    "generos": [],
+    "esAnime": false,
+    "esDonghua": false,
+    "esSerie": false,
+    "esPelicula": false
+  }
+]

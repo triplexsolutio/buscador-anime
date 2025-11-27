@@ -1,0 +1,2132 @@
+[
+  {
+    "id": "fate-stay-night",
+    "nombreEng": "Fate Stay Night",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2006,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie",
+      "Película"
+    ]
+  },
+  {
+    "id": "boku-no-hero-my-hero-academia",
+    "nombreEng": "Boku No Hero (My hero academia)",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2016,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie",
+      "Película"
+    ]
+  },
+  {
+    "id": "tales-of-zestiria-x",
+    "nombreEng": "Tales of Zestiria X",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2016,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Apple TV": "https://tv.apple.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "fog-hill-of-five-elements",
+    "nombreEng": "Fog Hill of Five Elements",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2020,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Bilibili": "https://www.bilibili.tv/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Donghua",
+      "Serie"
+    ]
+  },
+  {
+    "id": "the-kings-avatar",
+    "nombreEng": "The Kings Avatar",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2017,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Donghua",
+      "Serie"
+    ]
+  },
+  {
+    "id": "akira",
+    "nombreEng": "Akira",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 1988,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Prime Video": "https://www.primevideo.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Película"
+    ]
+  },
+  {
+    "id": "i-parry-everything",
+    "nombreEng": "I Parry Everything",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "solo-leveling",
+    "nombreEng": "Solo Leveling",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2024,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "lazarus",
+    "nombreEng": "Lazarus",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "HBO Max": "https://www.max.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "the-devouring-whale-homecoming",
+    "nombreEng": "The Devouring Whale Homecoming",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2023,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Mundodonghua": "https://mundodonghua.com/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Donghua",
+      "Serie"
+    ]
+  },
+  {
+    "id": "wistoria",
+    "nombreEng": "Wistoria",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2024,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "uma-musume-cinderella-gray",
+    "nombreEng": "Uma Musume Cinderella Gray",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "laputa-castle-in-the-sky",
+    "nombreEng": "Laputa - Castle in the Sky",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 1986,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Película"
+    ]
+  },
+  {
+    "id": "to-be-hero-x",
+    "nombreEng": "To Be Hero X",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2023,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "the-super-cube",
+    "nombreEng": "The Super Cube",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2021,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Bilibili": "https://www.bilibili.tv/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Donghua",
+      "Serie"
+    ]
+  },
+  {
+    "id": "shingeki-no-kyojin-attack-on-titan",
+    "nombreEng": "Shingeki no kyojin (Attack on titan)",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2013,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie",
+      "Película"
+    ]
+  },
+  {
+    "id": "shangri-la-frontier",
+    "nombreEng": "Shangri-La Frontier",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2023,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "scissor-seven-cike-wu-liuqi",
+    "nombreEng": "Scissor seven (Cike Wu Liuqi)",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2018,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com/",
+      "Jkanime": "https://jkanime.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Donghua",
+      "Serie"
+    ]
+  },
+  {
+    "id": "fist-of-the-north-star-hokuto-no-ken",
+    "nombreEng": "Fist of the North Star (Hokuto no ken)",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 1986,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "Jkanime": "https://jkanime.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "overlord",
+    "nombreEng": "Overlord",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2015,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Prime Video": "https://www.primevideo.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie",
+      "Película"
+    ]
+  },
+  {
+    "id": "kimetsu-no-yaiba-demon-slayer",
+    "nombreEng": "Kimetsu No Yaiba  (Demon slayer)",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2019,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie",
+      "Película"
+    ]
+  },
+  {
+    "id": "magi-sinbad",
+    "nombreEng": "Magi Sinbad",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2016,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "one-piece",
+    "nombreEng": "One Piece",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 1999,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie",
+      "Película"
+    ]
+  },
+  {
+    "id": "fate-apocrypha",
+    "nombreEng": "Fate Apocrypha",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2017,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "hunter-x-hunter",
+    "nombreEng": "Hunter x Hunter",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2011,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie",
+      "Película"
+    ]
+  },
+  {
+    "id": "ishura",
+    "nombreEng": "Ishura",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2024,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "the-daily-life-of-the-immortal-king",
+    "nombreEng": "The Daily Life of the Immortal King",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2020,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "Jkanime": "https://jkanime.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Donghua",
+      "Serie"
+    ]
+  },
+  {
+    "id": "toward-the-terra",
+    "nombreEng": "Toward the Terra",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 1980,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Película"
+    ]
+  },
+  {
+    "id": "moonrise-rebelion-lunar",
+    "nombreEng": "Moonrise (Rebelion Lunar)",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "kaiju-no-8",
+    "nombreEng": "Kaiju no 8",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2024,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "jujutsu-kaisen",
+    "nombreEng": "Jujutsu Kaisen",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2020,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie",
+      "Película"
+    ]
+  },
+  {
+    "id": "fire-force-enen-no-shouboutai",
+    "nombreEng": "Fire Force (Enen no Shouboutai)",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2019,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "biao-ren-blades-of-the-guardians",
+    "nombreEng": "Biao Ren: Blades of the Guardians",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2023,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Donghua"
+    ]
+  },
+  {
+    "id": "fate-grand-order",
+    "nombreEng": "Fate Grand Order",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2019,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie",
+      "Película"
+    ]
+  },
+  {
+    "id": "vampire-hunter-d",
+    "nombreEng": "Vampire Hunter D",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 1985,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Película"
+    ]
+  },
+  {
+    "id": "gachiakuta",
+    "nombreEng": "Gachiakuta",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "black-clover",
+    "nombreEng": "Black Clover",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2017,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie",
+      "Película"
+    ]
+  },
+  {
+    "id": "arknights",
+    "nombreEng": "Arknights",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2022,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "grave-of-the-fireflies-hotaru-no-haka",
+    "nombreEng": "Grave of the Fireflies (Hotaru no haka)",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 1988,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Película"
+    ]
+  },
+  {
+    "id": "legend-of-korra",
+    "nombreEng": "Legend of Korra",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2012,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "da-wang-rao-min-please-spare-my-life",
+    "nombreEng": "Da wang rao min (Please Spare, My life)",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2020,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Jkanime": "https://jkanime.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Donghua",
+      "Serie"
+    ]
+  },
+  {
+    "id": "big-fish-begonia",
+    "nombreEng": "Big Fish & Begonia",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2016,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Donghua",
+      "Película"
+    ]
+  },
+  {
+    "id": "no-game-no-life",
+    "nombreEng": "No Game No Life",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2014,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie",
+      "Película"
+    ]
+  },
+  {
+    "id": "rakshasa-street-zhen-hun-jie",
+    "nombreEng": "Rakshasa Street (Zhen Hun Jie)",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2016,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Jkanime": "https://jkanime.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Donghua",
+      "Serie"
+    ]
+  },
+  {
+    "id": "made-in-abyss",
+    "nombreEng": "Made in Abyss",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2017,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "tokyo-ghoul",
+    "nombreEng": "Tokyo Ghoul",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2014,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "bleach",
+    "nombreEng": "Bleach",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2004,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie",
+      "Película"
+    ]
+  },
+  {
+    "id": "death-note",
+    "nombreEng": "Death Note",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2006,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "your-name-kimi-no-na-wa",
+    "nombreEng": "Your Name (Kimi no Na wa)",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2016,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Película"
+    ]
+  },
+  {
+    "id": "link-click-shiguang-dailiren",
+    "nombreEng": "Link Click (Shiguang Dailiren)",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2021,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "Jkanime": "https://jkanime.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Donghua",
+      "Serie"
+    ]
+  },
+  {
+    "id": "one-punch-man",
+    "nombreEng": "One Punch Man",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie",
+      "Película"
+    ]
+  },
+  {
+    "id": "terra-formars",
+    "nombreEng": "Terra Formars",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2014,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "dandadan",
+    "nombreEng": "DanDaDan",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "frieren",
+    "nombreEng": "Frieren",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2023,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "nier-automata-ver1-1a",
+    "nombreEng": "Nier Automata Ver1.1a",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2023,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "hells-paradise-jigokuraku",
+    "nombreEng": "Hells Paradise (Jigokuraku)",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2023,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "chainsaw-man",
+    "nombreEng": "Chainsaw man",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2022,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "ankama-animations-wakfu-dofus",
+    "nombreEng": "Ankama Animations (Wakfu, Dofus)",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2007,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "YouTube": "https://www.youtube.com/"
+    },
+    "generos": [
+      "Anime",
+      "Serie",
+      "Película"
+    ]
+  },
+  {
+    "id": "soul-eater",
+    "nombreEng": "Soul eater",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2008,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "eternal-quon-towa-no-quon",
+    "nombreEng": "Eternal quon (Towa no Quon)",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2011,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Dailymotion": "https://www.dailymotion.com/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie",
+      "Película"
+    ]
+  },
+  {
+    "id": "lord-of-mysteries",
+    "nombreEng": "Lord of Mysteries",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Donghua",
+      "Serie"
+    ]
+  },
+  {
+    "id": "how-to-be-god",
+    "nombreEng": "How to be god",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {},
+    "generos": [
+      "Donghua",
+      "Serie"
+    ]
+  },
+  {
+    "id": "7fates-chakho",
+    "nombreEng": "7fates chakho",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2022,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Webtoons": "https://www.webtoons.com/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "katsugeki-touken-ranbu",
+    "nombreEng": "Katsugeki Touken Ranbu",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2017,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "009-re-cyborg",
+    "nombreEng": "009 re cyborg",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2012,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Película"
+    ]
+  },
+  {
+    "id": "mushoku-tensei",
+    "nombreEng": "Mushoku tensei",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2021,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "journey-to-the-west",
+    "nombreEng": "Journey to the west",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 1999,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "Jkanime": "https://jkanime.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Donghua",
+      "Serie"
+    ]
+  },
+  {
+    "id": "kotetsujo-no-kabaneri",
+    "nombreEng": "Kotetsujo no kabaneri",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2016,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "Jkanime": "https://jkanime.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "apukunapa-kutimuynin-el-renacer-de-los-dioses",
+    "nombreEng": "Apukunapa kutimuynin: El renacer de los dioses",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": null,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "YouTube": "https://www.youtube.com/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "bungo-stray-dogs",
+    "nombreEng": "Bungo stray dogs",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2016,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie",
+      "Película"
+    ]
+  },
+  {
+    "id": "hitori-no-shita-the-outcast",
+    "nombreEng": "Hitori no Shita: The Outcast",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2017,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "trigun-stampede",
+    "nombreEng": "Trigun Stampede",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2023,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "jigoku-sensei-nube-hell-teacher",
+    "nombreEng": "Jigoku Sensei Nube (Hell teacher)",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 1996,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie",
+      "Película"
+    ]
+  },
+  {
+    "id": "onmyo-kaiten-re-birth",
+    "nombreEng": "Onmyo Kaiten Re-Birth",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha",
+    "nombreEng": "Clevatess (Majuu no Ou to Akago to Shikabane no Yuusha)",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "silent-witch-chinmoku-no-majo-no-kakushigoto",
+    "nombreEng": "Silent Witch  (Chinmoku no Majo no Kakushigoto)",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "the-water-magician-mizu-zokusei-no-mahoutsukai",
+    "nombreEng": "The Water Magician (Mizu Zokusei no Mahoutsukai)",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "hikaru-ga-shinda-natsu",
+    "nombreEng": "Hikaru ga shinda natsu",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie",
+      "Película"
+    ]
+  },
+  {
+    "id": "tougen-anki",
+    "nombreEng": "Tougen Anki",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "kumo-desu-ga-nani-ka-so-i-m-a-spider-so-what",
+    "nombreEng": "Kumo desu ga, Nani ka? (So I'm a Spider, So What?)",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2021,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "goblin-slayer",
+    "nombreEng": "Goblin Slayer",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2018,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Prime Video": "https://www.primevideo.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie",
+      "Película"
+    ]
+  },
+  {
+    "id": "jigoku-no-tousou-geki-bloody-scape-bats-out-of-hell",
+    "nombreEng": "Jigoku no Tousou Geki (Bloody Scape, Bats out of hell)",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2024,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "Prime Video": "https://www.primevideo.com/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie",
+      "Película"
+    ]
+  },
+  {
+    "id": "yaiba-samurai-legend",
+    "nombreEng": "Yaiba Samurai Legend",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "the-promised-neverland",
+    "nombreEng": "The promised neverland",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2019,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "Netflix": "https://www.netflix.com/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "darling-in-the-franxx",
+    "nombreEng": "Darling in the Franxx",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2018,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "towa-no-yugure-dusk-beyond-the-end",
+    "nombreEng": "Towa no Yugure (Dusk Beyond the End)",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "AnimeAV1": "https://animeav1.net/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "mugen-gacha-my-gift-lvl-9999-unlimited",
+    "nombreEng": "Mugen Gacha (My Gift Lvl 9999 Unlimited)",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "AnimeAV1": "https://animeav1.net/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "sanda",
+    "nombreEng": "Sanda",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Prime Video": "https://www.primevideo.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "a-wild-last-boss-appeared",
+    "nombreEng": "A wild last boss appeared",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "ranma-1-2",
+    "nombreEng": "Ranma ½",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2024,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "dragon-raja",
+    "nombreEng": "Dragon Raja",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2022,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Donghua",
+      "Serie"
+    ]
+  },
+  {
+    "id": "the-eminence-in-shadow",
+    "nombreEng": "The Eminence in Shadow",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2022,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "my-status-as-an-assassin-obviously-exceeds-the-hero-s",
+    "nombreEng": "My Status as an Assassin Obviously Exceeds the Hero's",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "gnosia",
+    "nombreEng": "Gnosia",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "akame-ga-kill",
+    "nombreEng": "Akame Ga Kill",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2014,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "cyberpunk-edgerunners",
+    "nombreEng": "Cyberpunk Edgerunners",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2022,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "digimon-beatbreak",
+    "nombreEng": "Digimon Beatbreak",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2025,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie",
+      "Película"
+    ]
+  },
+  {
+    "id": "kingdoms-of-ruin-hametsu-no-oukoku",
+    "nombreEng": "Kingdoms of Ruin (Hametsu no Oukoku)",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": 2023,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/",
+      "AnimeFLV": "https://www3.animeflv.net/",
+      "Nyaa": "https://nyaa.si/"
+    },
+    "generos": [
+      "Anime",
+      "Serie"
+    ]
+  },
+  {
+    "id": "chained-soldier",
+    "nombreEng": "Chained Soldier",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": null,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Prime Video": "https://www.primevideo.com/",
+      "AnimeFLV": "https://www3.animeflv.net/"
+    },
+    "generos": []
+  },
+  {
+    "id": "reincarnated-as-a-sword",
+    "nombreEng": "Reincarnated as a sword",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": null,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com/"
+    },
+    "generos": []
+  },
+  {
+    "id": "vinland-saga",
+    "nombreEng": "Vinland Saga",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": null,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/"
+    },
+    "generos": []
+  },
+  {
+    "id": "castelvania",
+    "nombreEng": "Castelvania",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": null,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com/"
+    },
+    "generos": []
+  },
+  {
+    "id": "ragna-crimson",
+    "nombreEng": "Ragna Crimson",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": null,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com/"
+    },
+    "generos": []
+  },
+  {
+    "id": "blue-eyes-samurai",
+    "nombreEng": "Blue eyes Samurai",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": null,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com/"
+    },
+    "generos": []
+  },
+  {
+    "id": "kingdom",
+    "nombreEng": "Kingdom",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": null,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com/"
+    },
+    "generos": []
+  },
+  {
+    "id": "blue-exorcist",
+    "nombreEng": "Blue Exorcist",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": null,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/"
+    },
+    "generos": []
+  },
+  {
+    "id": "sword-art-online",
+    "nombreEng": "Sword Art Online",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": null,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/"
+    },
+    "generos": []
+  },
+  {
+    "id": "devil-may-cry",
+    "nombreEng": "Devil May Cry",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": null,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {
+      "Netflix": "https://www.netflix.com/"
+    },
+    "generos": []
+  },
+  {
+    "id": "nanatsu-no-taizai-seven-deadly-sins",
+    "nombreEng": "Nanatsu no taizai (seven deadly sins)",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": null,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {},
+    "generos": []
+  },
+  {
+    "id": "arifureta",
+    "nombreEng": "Arifureta",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": null,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {},
+    "generos": []
+  },
+  {
+    "id": "the-unwanted-undead-adevnturer",
+    "nombreEng": "The unwanted undead adevnturer",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": null,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {},
+    "generos": []
+  },
+  {
+    "id": "tower-of-god",
+    "nombreEng": "Tower of god",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": null,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {},
+    "generos": []
+  },
+  {
+    "id": "berserk-of-gluttony",
+    "nombreEng": "Berserk of gluttony",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": null,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {},
+    "generos": []
+  },
+  {
+    "id": "seraph-of-the-end",
+    "nombreEng": "Seraph of the end",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": null,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {},
+    "generos": []
+  },
+  {
+    "id": "deca-dance",
+    "nombreEng": "Deca dance",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": null,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {},
+    "generos": []
+  },
+  {
+    "id": "dororo",
+    "nombreEng": "Dororo",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": null,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {},
+    "generos": []
+  },
+  {
+    "id": "heavenly-delusion",
+    "nombreEng": "Heavenly delusion",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": null,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {},
+    "generos": []
+  },
+  {
+    "id": "mob-psycho-100",
+    "nombreEng": "Mob psycho 100",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": null,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {},
+    "generos": []
+  },
+  {
+    "id": "another-world",
+    "nombreEng": "Another world",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": null,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {},
+    "generos": []
+  },
+  {
+    "id": "legend-of-hei-2",
+    "nombreEng": "Legend of Hei 2",
+    "nombreJp": "",
+    "descripcion": "",
+    "imagen": "img/placeholder.png",
+    "anio": null,
+    "temporadas": null,
+    "episodios": null,
+    "plataformas": {},
+    "generos": []
+  }
+]
