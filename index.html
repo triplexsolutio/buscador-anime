@@ -2,7 +2,7 @@
 <html lang="es" data-theme="light">
   <head>
     <meta charset="UTF-8" />
-    <title>Buscador de Animes of TriplexSolutio</title>
+    <title>Buscador de Animes 🎯 TriplexSolutio</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <!-- Iconos (Font Awesome) -->
@@ -19,6 +19,8 @@
 
   </head>
   <body>
+    <script type="module" src="elements/patreonBanner.js"></script>
+
     <!-- HEADER -->
     <header class="site-header">
       <div class="header-inner">
@@ -98,23 +100,39 @@
 
       <!-- ZONA DE ANUNCIOS -->
       <section class="ads-section">
-        <h2>Publicidad / Avisos</h2>
-        <div id="adsContainer">
-          <p>
-            Espacio para banners, promos de Patreon, enlaces a tu Telegram, etc.
-          </p>
-        </div>
+        <!-- <h2>Publicidad / Avisos</h2> -->
+        <!-- <div id="adsContainer"> -->
+          <patreon-banner src="elements/patreonBanner.html"></patreon-banner>
+        <!-- </div> -->
       </section>
 
       <!-- RESULTADOS -->
-      <section class="results-section">
-        <h2>Resultados</h2>
-        <div id="resultsContainer" class="results-grid"></div>
-        <p id="noResults" class="no-results hidden">
-          No se encontraron animes con ese criterio.
-        </p>
-        <div id="pagination" class="pagination"></div>
-      </section>
+<section class="results-section">
+  <h2>Resultados</h2>
+
+  <div id="resultsContainer" class="results-grid"></div>
+
+  <!-- Bloque "sin resultados" -->
+  <div id="noResults" class="no-results hidden" role="status" aria-live="polite">
+    <p>No se encontraron animes con ese criterio.</p>
+    <p class="no-results__hint">
+      ¿Falta tu anime? Puedes <strong>proponerlo con este formulario</strong> y lo añado.
+    </p>
+    <a
+      id="addAnimeBtn"
+      class="btn btn-primary"
+      href="https://triplexsolutio.com/formulario-a%C3%B1adir-anime-buscador" 
+      target="_blank"
+      rel="noopener"
+      data-event="suggest_anime"
+    >
+      + Añadir anime
+    </a>
+  </div>
+
+  <div id="pagination" class="pagination"></div>
+</section>
+
 
       <!-- INFO EXTRA -->
       <section id="info" class="info-section">
@@ -124,7 +142,7 @@
           una lista personal de animes y donghuas seleccionados por mí
           ("TriplexSolutio", llámame Triple si quieres jeje), a lo largo de los años.
         </br></br>
-          En constante construcción cuando tengo tiempo... </br>De un fan del anime para fans del anime :)
+          En constante construcción, cuando tengo tiempo...
         </p>
         <p>
           Comparte este buscador con tus amigxs otakus para que podais encontrar
@@ -172,7 +190,7 @@
     <!-- FOOTER -->
     <footer id="footer" class="site-footer">
       <div class="footer-inner">
-        <p>© <span id="year"></span> TriplexSolutio · Anime & Donghua</p>
+        <p>© <span id="year"></span> TriplexSolutio · De un fan del anime para fans del anime :)</p>
         <div class="social-links">
           <a
             href="https://instagram.com/triplexsolutio"

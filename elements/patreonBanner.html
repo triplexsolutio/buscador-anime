@@ -1,0 +1,98 @@
+<!-- Banner Patreon – TriplexSolutio -->
+<section
+  class="patreon-banner"
+  role="region"
+  aria-label="Apoya el buscador en Patreon"
+>
+  <div class="patreon-banner__content">
+    <div class="patreon-banner__text">
+      <h3 class="patreon-banner__title">Apoya este Buscador de Anime</h3>
+      <p class="patreon-banner__desc">
+        Si te ayuda a descubrir dónde ver tus animes, considera suscribirte por
+        <strong>solo $2/mes</strong>. Con tu apoyo puedo mantenerlo, mejorarlo y
+        añadir más títulos cada semana. ¡Gracias! 🙏
+      </p>
+    </div>
+
+    <a
+      class="patreon-banner__cta"
+      href="https://www.patreon.com/triplexsolutio/membership"
+      target="_blank"
+      rel="noopener"
+    >
+      <span class="patreon-banner__icon" aria-hidden="true">🎁</span>
+      Apoyar en Patreon
+    </a>
+  </div>
+</section>
+
+<style>
+  .patreon-banner {
+    margin: 24px 0;
+    border-radius: 16px;
+    overflow: hidden;
+    background: var(--promo-bg);
+    color: var(--text);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+  }
+  .patreon-banner__content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 24px;
+    padding: 20px clamp(16px, 4vw, 28px);
+    background: var(--card);
+    backdrop-filter: blur(6px);
+  }
+  .patreon-banner__title {
+    margin: 0 0 6px;
+    font-size: clamp(18px, 2.6vw, 22px);
+    font-weight: 800;
+    letter-spacing: 0.2px;
+  }
+  .patreon-banner__desc {
+    margin: 0;
+    line-height: 1.45;
+    font-size: clamp(14px, 2.2vw, 16px);
+    opacity: 0.95;
+  }
+  .patreon-banner__cta {
+    flex: 0 0 auto;
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    padding: 12px 18px;
+    border-radius: 12px;
+    text-decoration: none;
+    font-weight: 700;
+    background: var(--accent);
+    color: var(--accent-contrast);
+    box-shadow: 0 6px 18px rgba(255, 71, 87, 0.35);
+    transition: transform 0.12s ease, filter 0.12s ease;
+    white-space: nowrap;
+  }
+  .patreon-banner__cta:hover {
+    transform: translateY(-1px);
+    filter: brightness(1.05);
+  }
+  .patreon-banner__cta:active {
+    transform: translateY(0);
+  }
+  .patreon-banner__icon {
+    font-size: 1.1em;
+  }
+  /* Responsive */
+  @media (max-width: 640px) {
+    .patreon-banner__content {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+    .patreon-banner__cta {
+      width: 100%;
+      justify-content: center;
+    }
+  }
+  /* Modo claro (opcional: si tu web es clara, activa esto) */
+  /* .patreon-banner{ --bg: linear-gradient(135deg,#ffffff,#f0f3ff);
+                     --card: rgba(10,10,30,.04); --text:#1a1a23 } */
+</style>
