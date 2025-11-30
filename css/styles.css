@@ -263,11 +263,14 @@ body {
   height: var(--icon-size);
   display: grid;
   place-items: center;
-  pointer-events: none;
   color: var(--muted);
-  font-size: 1rem;            /* ajusta si usas Font Awesome */
-  line-height: 1;             /* evita que “crezca” por la línea */
+
+  /* antes tenías pointer-events:none; */
+  pointer-events: auto;
+  cursor: pointer;
 }
+/* .search-icon:focus{ outline: 2px solid var(--accent2); outline-offset: 3px; } */
+
 
 /* Botón X */
 .clear-btn{

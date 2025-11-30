@@ -30,6 +30,7 @@ const mobileMenuCloseBtn = document.getElementById("mobileMenuClose");
 const searchJumpBtn = document.getElementById("searchJump");
 const resultsSection = document.querySelector(".results-section");
 const clearBtn = document.getElementById("clearSearch");
+const searchIconBtn = document.getElementById("searchSubmit");
 
 // Tema
 const themeToggleBtn = document.getElementById("themeToggle");
@@ -485,3 +486,29 @@ function highlightSearchInput() {
     { once: true }
   );
 }
+
+function triggerSearchFromIcon() {
+  const q = searchInput.value.trim();
+  if (!q) {
+    // si está vacío, solo enfoca para escribir
+    searchInput.focus();
+    return;
+  }
+  shouldScrollOnPageChange = true;
+  renderPage(1); // tu función de render con la query actual
+  searchInput.blur(); // ocultar teclado en móvil
+  if (typeof scrollToResultsTop === "function") scrollToResultsTop();
+}
+
+searchIconBtn?.addEventListener("click", (e) => {
+  e.preventDefault();
+  triggerSearchFromIcon();
+});
+
+// Accesible con teclado: Enter y Space en la lupa
+searchIconBtn?.addEventListener("keydown", (e) => {
+  if (e.key === "Enter" || e.key === " ") {
+    e.preventDefault();
+    triggerSearchFromIcon();
+  }
+});
