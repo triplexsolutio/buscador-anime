@@ -1,13 +1,16 @@
 // Custom Element que inyecta HTML externo dentro de Shadow DOM
 const cache = new Map();
 
+// ✅ Resuelve el HTML por defecto al lado de ESTE archivo JS (robusto en subrutas)
+const DEFAULT_SRC = new URL("./patreonBanner.html", import.meta.url).href;
+
 class PatreonBanner extends HTMLElement {
   async connectedCallback() {
-    const src = this.getAttribute("src") || "elements/patreonBanner.html";
+    // Si pasas un src, lo normalizamos a URL absoluta; si no, usamos el default:
+    const attr = this.getAttribute("src");
+    const src = attr ? new URL(attr, document.baseURI).href : DEFAULT_SRC;
 
-    // Evita recargar si ya está renderizado
     if (this.shadowRoot) return;
-
     const root = this.attachShadow({ mode: "open" });
 
     try {
@@ -21,15 +24,13 @@ class PatreonBanner extends HTMLElement {
       cache.set(src, html);
       root.innerHTML = html;
 
-      // Opcional: pasar variables CSS del host al shadow (heredan automáticamente)
-      // Puedes exponer estilos globales al :host si necesitas:
-      // root.adoptedStyleSheets = [...document.adoptedStyleSheets];
+      // Garantiza que el host ocupe espacio aunque el HTML cargado falle
+      const style = document.createElement("style");
+      style.textContent = ":host{display:block}";
+      root.prepend(style);
     } catch (err) {
       root.innerHTML = `
-        <style>
-          :host { display:block; font: 14px/1.4 system-ui, sans-serif; }
-          .error { padding:12px; border-radius:8px; background:#2b1b1b; color:#f7d7d7 }
-        </style>
+        <style>:host{display:block;font:14px/1.4 system-ui}</style>
         <div class="error">No se pudo cargar <code>${src}</code>: ${err.message}</div>
       `;
       console.error("[patreon-banner]", err);
