@@ -29,6 +29,7 @@ const mobileMenu = document.getElementById("mobileMenu");
 const mobileMenuCloseBtn = document.getElementById("mobileMenuClose");
 const searchJumpBtn = document.getElementById("searchJump");
 const resultsSection = document.querySelector(".results-section");
+const clearBtn = document.getElementById("clearSearch");
 
 // Tema
 const themeToggleBtn = document.getElementById("themeToggle");
@@ -119,16 +120,29 @@ searchInput.addEventListener("input", () => {
   });
   shouldScrollOnPageChange = false;
   renderPage(1);
+
+  searchInput.classList.toggle("has-value", searchInput.value.length > 0);
 });
 
 searchInput.addEventListener("keydown", (event) => {
   if (event.key === "Enter") {
-    event.preventDefault(); // evita que envíe formulario o recargue la página
-    shouldScrollOnPageChange = true;
-    // renderPage(1);
+    event.preventDefault();
+    searchInput.blur(); // ocultar teclado móvil
+    shouldScrollOnPageChange = true; // desplazar a resultados
+    renderPage(1); // asegura render con lo escrito
     scrollToResultsTop();
+  } else {
+    shouldScrollOnPageChange = false;
   }
+});
+
+clearBtn?.addEventListener("click", () => {
+  searchInput.value = "";
+  searchInput.classList.remove("has-value");
+  filteredAnimes = animes.slice();
   shouldScrollOnPageChange = false;
+  renderPage(1);
+  searchInput.blur(); // oculta teclado en móvil
 });
 
 // ====== RENDERIZADO + PAGINACIÓN ======
@@ -182,7 +196,9 @@ function renderResults(list) {
 
     const metaEl = document.createElement("p");
     metaEl.className = "result-meta";
-    metaEl.textContent = `${anime.anio} · ${anime.temporadas} temp · ${anime.episodios} ep`;
+    metaEl.textContent = `${anime.anio ?? ""} · ${
+      anime.temporadas ?? "?"
+    } temp · ${anime.episodios ?? "?"} ep`;
 
     const tagsList = document.createElement("ul");
     tagsList.className = "tag-list";
@@ -314,8 +330,8 @@ function getVisiblePages(currentPage, totalPages, maxButtons = 5) {
 function openModal(anime) {
   modalImage.src = anime.imagen || "img/placeholder.png";
   modalTitle.textContent = anime.nombreEng;
-  modalTitleJp.textContent = anime.nombreJp || "";
-  modalYear.textContent = anime.anio || "¿?";
+  modalTitleJp.textContent = anime.nombreJp ? "(" + anime.nombreJp + ")" : "";
+  modalYear.textContent = anime.anio || "";
   modalSeasons.textContent = anime.temporadas ?? "?";
   modalEpisodes.textContent = anime.episodios ?? "?";
   modalDescription.textContent = anime.descripcion || "";

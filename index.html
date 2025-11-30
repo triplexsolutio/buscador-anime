@@ -87,16 +87,26 @@
 
       <!-- BUSCADOR -->
       <section id="buscar" class="search-section">
-        <label for="searchInput" class="search-label"
-          ><b>Busca por nombre o género</b></label
-        >
-        <input
-          type="text"
-          id="searchInput"
-          class="search-input"
-          placeholder="Ej: Naruto, romance, isekai..."
-        />
-      </section>
+  <label for="searchInput" class="search-label"><b>Busca por nombre o género</b></label>
+
+  <div class="search-input-wrap">
+    <i class="fa-solid fa-magnifying-glass search-icon" aria-hidden="true"></i>
+
+    <input
+      type="text"
+      id="searchInput"
+      class="search-input"
+      placeholder="Ej: One Piece, romance, isekai..."
+      autocomplete="off"
+      inputmode="search"
+    />
+
+    <button type="button" id="clearSearch" class="clear-btn" aria-label="Borrar búsqueda">
+      <i class="fa-solid fa-xmark"></i>
+    </button>
+  </div>
+</section>
+
 
       <!-- ZONA DE ANUNCIOS -->
       <section class="ads-section">
@@ -167,19 +177,19 @@
           <div class="modal-info">
             <!-- <h2 id="modalTitle"></h2> -->
             <p class="modal-subtitle">
-              <span id="modalTitle"></span> (<span id="modalTitleJp"> </span>)
+              <span id="modalTitle"></span> <span id="modalTitleJp"> </span>
               </br><span id="modalYear"></span> · 
               <span id="modalSeasons"></span> temporadas ·
               <span id="modalEpisodes"></span> episodios
             </p>
             <p id="modalDescription" class="modal-description"></p>
 
-            <div class="modal-section">
+            <div class="modal-section-plataformas">
               <h3>Plataformas (enlace directo al anime)</h3>
               <ul id="modalPlatforms" class="tag-list"></ul>
             </div>
 
-            <div class="modal-section">
+            <div class="modal-section-generos">
               <h3>Géneros</h3>
               <ul id="modalGenres" class="tag-list"></ul>
             </div>
