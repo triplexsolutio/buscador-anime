@@ -31,6 +31,7 @@ const searchJumpBtn = document.getElementById("searchJump");
 const resultsSection = document.querySelector(".results-section");
 const clearBtn = document.getElementById("clearSearch");
 const searchIconBtn = document.getElementById("searchSubmit");
+const addAnimeBtn = document.getElementById("addAnimeBtn");
 
 // Tema
 const themeToggleBtn = document.getElementById("themeToggle");
@@ -62,6 +63,24 @@ document.addEventListener("DOMContentLoaded", () => {
       noResultsEl.textContent = "Error cargando los datos. Revisa la consola.";
       noResultsEl.classList.remove("hidden");
     });
+
+  // 3) analiticas botones redes footer
+  const footerSocialLinks = document.querySelectorAll(".footer-social__link");
+
+  footerSocialLinks.forEach((link) => {
+    link.addEventListener("click", () => {
+      const network = link.dataset.social || "unknown";
+
+      if (window.gtag) {
+        gtag("event", "click_social_footer", {
+          network, // "instagram", "tiktok", etc.
+          location: "footer", // por si luego tienes botones en otros sitios
+          link_url: link.href, // URL real a la que van
+        });
+      }
+      // No hace falta preventDefault: se abrirá en otra pestaña (_blank)
+    });
+  });
 });
 
 // ====== AJUSTE DE PAGE SIZE EN RESIZE ======
@@ -99,7 +118,6 @@ function scrollToResultsTop() {
 
 searchInput.addEventListener("input", () => {
   const term = searchInput.value.trim().toLowerCase();
-
   if (!term) {
     filteredAnimes = animes.slice();
     shouldScrollOnPageChange = false;
@@ -127,6 +145,12 @@ searchInput.addEventListener("input", () => {
 
 searchInput.addEventListener("keydown", (event) => {
   if (event.key === "Enter") {
+    // evento a Google Analytics
+    if (window.gtag) {
+      gtag("event", "search_input_enter", {
+        search_term: searchInput.value.trim() || "",
+      });
+    }
     event.preventDefault();
     searchInput.blur(); // ocultar teclado móvil
     shouldScrollOnPageChange = true; // desplazar a resultados
@@ -337,6 +361,13 @@ function openModal(anime) {
   modalEpisodes.textContent = anime.episodios ?? "?";
   modalDescription.textContent = anime.descripcion || "";
 
+  // evento a Google Analytics
+  if (window.gtag) {
+    gtag("event", "open_modal_anime", {
+      anime: anime.nombreEng,
+    });
+  }
+
   // Plataformas
   modalPlatforms.innerHTML = "";
   if (anime.plataformas) {
@@ -349,6 +380,16 @@ function openModal(anime) {
       a.className = "tag";
       a.target = "_blank";
       a.rel = "noopener";
+
+      a.addEventListener("click", (e) => {
+        // evento a Google Analytics
+        if (window.gtag) {
+          gtag("event", "go_to_plataform_clic", {
+            plataform_clic: nombre,
+          });
+        }
+      });
+
       modalPlatforms.appendChild(a);
     });
   }
@@ -406,11 +447,18 @@ themeToggleBtn?.addEventListener("click", () => {
 function openMobileMenu() {
   if (!mobileMenu) return;
   mobileMenu.classList.add("open");
+  if (window.gtag) {
+    gtag("event", "open_mobile_menu", {});
+  }
 }
 
 function closeMobileMenu() {
   if (!mobileMenu) return;
   mobileMenu.classList.remove("open");
+
+  if (window.gtag) {
+    gtag("event", "close_mobile_menu", {});
+  }
 }
 
 menuToggleBtn?.addEventListener("click", () => {
@@ -489,6 +537,12 @@ function highlightSearchInput() {
 
 function triggerSearchFromIcon() {
   const q = searchInput.value.trim();
+  // evento a Google Analytics
+  if (window.gtag) {
+    gtag("event", "triggerSearchFromIcon", {
+      searchInput: q || "",
+    });
+  }
   if (!q) {
     // si está vacío, solo enfoca para escribir
     searchInput.focus();
@@ -510,5 +564,11 @@ searchIconBtn?.addEventListener("keydown", (e) => {
   if (e.key === "Enter" || e.key === " ") {
     e.preventDefault();
     triggerSearchFromIcon();
+  }
+});
+
+addAnimeBtn?.addEventListener("click", () => {
+  if (window.gtag) {
+    gtag("event", "add_anime_btn_form", {});
   }
 });

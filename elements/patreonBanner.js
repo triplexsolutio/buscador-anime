@@ -3,6 +3,7 @@ const cache = new Map();
 
 // ✅ Resuelve el HTML por defecto al lado de ESTE archivo JS (robusto en subrutas)
 const DEFAULT_SRC = new URL("./patreonBanner.html", import.meta.url).href;
+const patreonBtn = document.getElementById("patreon_banner_button");
 
 class PatreonBanner extends HTMLElement {
   async connectedCallback() {
@@ -28,6 +29,21 @@ class PatreonBanner extends HTMLElement {
       const style = document.createElement("style");
       style.textContent = ":host{display:block}";
       root.prepend(style);
+
+      const patreonBtn = root.querySelector("#patreon_banner_button");
+
+      if (patreonBtn) {
+        patreonBtn.addEventListener("click", () => {
+          // Evento de Google Analytics 4
+          if (window.gtag) {
+            gtag("event", "click_patreon_banner", {
+              location: "anime_search_banner",
+              link_url: "https://www.patreon.com/triplexsolutio/membership",
+            });
+          }
+          // No hace falta preventDefault porque abre en otra pestaña (_blank)
+        });
+      }
     } catch (err) {
       root.innerHTML = `
         <style>:host{display:block;font:14px/1.4 system-ui}</style>
