@@ -101,6 +101,17 @@ body {
   font-weight: 600;
   letter-spacing: 0.03em;
 }
+/* Pequeño stack de marca bajo el logo */
+.brand-wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.brand-sub {
+  font-size: 0.72rem;
+  color: var(--muted);
+}
 
 /* NUEVO: contenedor de acciones (tema + menú) */
 .header-actions {
