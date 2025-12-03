@@ -28,6 +28,7 @@ const menuToggleBtn = document.getElementById("menuToggle");
 const mobileMenu = document.getElementById("mobileMenu");
 const mobileMenuCloseBtn = document.getElementById("mobileMenuClose");
 const searchJumpBtn = document.getElementById("searchJump");
+const buscador = document.getElementById("buscar");
 const resultsSection = document.querySelector(".results-section");
 const clearBtn = document.getElementById("clearSearch");
 const searchIconBtn = document.getElementById("searchSubmit");
@@ -101,9 +102,9 @@ function getPageSize() {
   return width < 640 ? 4 : 8;
 }
 
-function scrollToResultsTop() {
+function scrollToResultsTop(element) {
   // if (!resultsSection) return;
-  const rect = resultsSection.getBoundingClientRect();
+  const rect = element.getBoundingClientRect();
   const absoluteTop = rect.top + window.scrollY;
 
   // Offset para que no quede pegado del todo al borde (header fijo)
@@ -119,6 +120,7 @@ function scrollToResultsTop() {
 
 searchInput.addEventListener("input", () => {
   const term = searchInput.value.trim().toLowerCase();
+  scrollToResultsTop(buscador);
   if (!term) {
     filteredAnimes = animes.slice();
     shouldScrollOnPageChange = false;
@@ -156,7 +158,7 @@ searchInput.addEventListener("keydown", (event) => {
     searchInput.blur(); // ocultar teclado móvil
     shouldScrollOnPageChange = true; // desplazar a resultados
     renderPage(1); // asegura render con lo escrito
-    scrollToResultsTop();
+    scrollToResultsTop(resultsSection);
   } else {
     shouldScrollOnPageChange = false;
   }
@@ -196,7 +198,7 @@ function renderPage(page) {
   renderResults(pageItems);
   renderPagination(totalPages);
   if (shouldScrollOnPageChange) {
-    scrollToResultsTop();
+    scrollToResultsTop(resultsSection);
   }
 }
 
@@ -502,10 +504,7 @@ document.querySelectorAll("[data-menu-link]").forEach((link) => {
 // ====== BOTÓN LUPA: IR A LA SECCIÓN BUSCADOR Y DESTACAR INPUT ======
 
 searchJumpBtn?.addEventListener("click", () => {
-  const searchSection = document.getElementById("title");
-  if (searchSection) {
-    searchSection.scrollIntoView({ behavior: "smooth", block: "start" });
-  }
+  scrollToResultsTop(buscador);
 
   if (mobileMenu?.classList.contains("open")) {
     closeMobileMenu();
@@ -552,7 +551,8 @@ function triggerSearchFromIcon() {
   shouldScrollOnPageChange = true;
   renderPage(1); // tu función de render con la query actual
   searchInput.blur(); // ocultar teclado en móvil
-  if (typeof scrollToResultsTop === "function") scrollToResultsTop();
+  if (typeof scrollToResultsTop === "function")
+    scrollToResultsTop(resultsSection);
 }
 
 searchIconBtn?.addEventListener("click", (e) => {
