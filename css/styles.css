@@ -389,7 +389,7 @@ body {
 
 .results-section h2 {
   font-size: 1.1rem;
-  margin-bottom: 0.7rem;
+  margin-bottom: 0rem;
 }
 
 .results-grid {
@@ -480,11 +480,6 @@ body {
   color: var(--accent);
 }
 
-.no-results {
-  margin-top: 0.8rem;
-  font-size: 0.9rem;
-  color: var(--muted);
-}
 
 .hidden {
   display: none !important;
@@ -753,7 +748,7 @@ html[data-theme="light"] .modal-close {
 
 /*  NO RESULTS  */
 .no-results { 
-  margin: 24px 0; padding: 16px; border-radius: 12px;
+  border-radius: 12px;
   background: rgba(255,255,255,0.04); 
 }
 .no-results__hint { margin: 8px 0 16px; opacity: .9; }
