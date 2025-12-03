@@ -108,7 +108,7 @@ function scrollToResultsTop(element) {
   const absoluteTop = rect.top + window.scrollY;
 
   // Offset para que no quede pegado del todo al borde (header fijo)
-  const offset = 80;
+  const offset = 70;
 
   window.scrollTo({
     top: Math.max(absoluteTop - offset, 0),
