@@ -32,6 +32,7 @@ const resultsSection = document.querySelector(".results-section");
 const clearBtn = document.getElementById("clearSearch");
 const searchIconBtn = document.getElementById("searchSubmit");
 const addAnimeBtn = document.getElementById("addAnimeBtn");
+const logoZone = document.getElementById("logo-id");
 
 // Tema
 const themeToggleBtn = document.getElementById("themeToggle");
@@ -571,4 +572,12 @@ addAnimeBtn?.addEventListener("click", () => {
   if (window.gtag) {
     gtag("event", "add_anime_btn_form", {});
   }
+});
+
+// ==============  OTROS EVENTOS ================
+
+logoZone.addEventListener("click", () => {
+  // Siempre te lleva al home del dominio (raíz)
+  const url = `${window.location.origin}/`;
+  window.location.href = url; // misma pestaña
 });
