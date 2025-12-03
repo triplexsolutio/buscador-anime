@@ -65,12 +65,15 @@ class NewsletterBar extends HTMLElement {
 
             // 4) Feedback al usuario
             emailInput.value = "";
-            alert("Listo! Te has subscrito con éxito :)");
+            showToast("¡Listo! Te has suscrito con éxito 🙂", {
+              type: "success",
+              duration: 2800,
+            });
           } catch (err) {
             console.error("[newsletter-bar] Error enviando a Brevo", err);
-            alert(
-              "Ha habido un problema al suscribirte. Prueba de nuevo en unos minutos."
-            );
+            showToast("Ocurrió un error. Inténtalo de nuevo.", {
+              type: "error",
+            });
           }
         });
       }

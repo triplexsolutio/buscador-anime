@@ -581,3 +581,33 @@ logoZone.addEventListener("click", () => {
   const url = `${window.location.origin}/`;
   window.location.href = url; // misma pestaña
 });
+
+// ============== Simple toast/snackbar ==============
+function showToast(message, { type = "success", duration = 2600 } = {}) {
+  const el = document.createElement("div");
+  el.className = `toast toast--${type}`;
+  el.setAttribute("role", "status");
+  el.setAttribute("aria-live", "polite");
+
+  // (opcional) icono según tipo
+  const icon = type === "success" ? "✅" : type === "error" ? "⚠️" : "ℹ️";
+  el.innerHTML = `<span class="toast__icon" aria-hidden="true">${icon}</span>${message}`;
+
+  document.body.appendChild(el);
+  // entrada
+  requestAnimationFrame(() => el.classList.add("is-visible"));
+
+  // cierre automático y al hacer clic
+  const close = () => {
+    el.classList.remove("is-visible");
+    el.addEventListener("transitionend", () => el.remove(), { once: true });
+  };
+  const t = setTimeout(close, duration);
+  el.addEventListener("click", () => {
+    clearTimeout(t);
+    close();
+  });
+}
+
+// Para poder llamarlo desde cualquier parte si lo necesitas:
+window.showToast = showToast;
