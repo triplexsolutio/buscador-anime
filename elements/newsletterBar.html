@@ -1,0 +1,194 @@
+<!-- elements/newsletterBar.html -->
+<section class="newsletter-root" aria-label="Newsletter anime">
+  <form
+    id="sib-form"
+    class="newsletter-pill"
+    method="POST"
+    action="https://3a61f0a6.sibforms.com/serve/MUIFAJ64OB04rBeAkC-9G0UJSE6hQxQ-YjwEpP5XVZp3ONh97mfbbQMDKrA_AgloEv4qzVC2n-L3sEJxoqrjNOzJLNYU6xifLQqY1ufdD19f37bAUpmsWKibi7XWMc1HDgGUHtrY_e20UWdKZx2BE7rfN9ja4s-k_PFaEVUNM7jPV6OFkOF79zpTjn3XZlUrpmC4a9_KQJ18gTBFlg=="
+  >
+    <!-- Fila superior: input + botón -->
+    <div class="newsletter-pill__top">
+      <!-- IMPORTANTE: mantener name="EMAIL" e id="EMAIL" para Brevo -->
+      <input
+        class="newsletter-pill__input"
+        type="email"
+        id="EMAIL"
+        name="EMAIL"
+        autocomplete="email"
+        data-required="true"
+        required
+        placeholder="Añade tu email.."
+      />
+
+      <button type="submit" class="newsletter-pill__button">Me apunto</button>
+    </div>
+
+    <!-- Honeypot + config Brevo -->
+    <input
+      type="text"
+      name="email_address_check"
+      value=""
+      class="input--hidden"
+    />
+    <input type="hidden" name="locale" value="es" />
+    <input type="hidden" name="html_type" value="simple" />
+
+    <!-- Mensaje de error opcional -->
+    <label class="newsletter-pill__error" data-error></label>
+  </form>
+  <!-- Texto de ayuda dentro de la misma píldora -->
+  <p class="newsletter-pill__hint">
+    💌 Recibe contenido anime exclusivo y mucho más.
+  </p>
+  <style>
+    :host {
+      display: block;
+    }
+
+    .newsletter-root {
+      max-width: 680px;
+      margin: 0.6rem auto 1.2rem;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+        sans-serif;
+      padding: 0 1.2rem;
+    }
+
+    .newsletter-pill {
+      display: flex;
+      flex-direction: column;
+      gap: 0.2rem;
+      background: var(--bg-soft);
+      border-radius: 10px;
+      border: 1px solid var(--accent2-soft);
+      box-shadow: var(--shadow-soft);
+      padding: 0.4rem 0.5rem 0rem 0.5rem;
+    }
+
+    .newsletter-pill__top {
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+      min-height: 32px;
+    }
+
+    .newsletter-pill__input {
+      flex: 1;
+      border: none;
+      background: var(--bg-soft);
+      outline: none;
+      font-size: 0.9rem;
+      color: var(--text);
+      min-width: 0;
+    }
+
+    .newsletter-pill__input::placeholder {
+      color: var(--muted);
+    }
+
+    .newsletter-pill__button {
+      border: none;
+      border-radius: 10px;
+      background: var(--accent-soft2);
+      color: var(--text);
+      padding: 0.45rem 0.9rem;
+      font-size: 0.9rem;
+      font-weight: 600;
+      cursor: pointer;
+      min-width: 100px;
+      white-space: nowrap;
+    }
+
+    .newsletter-pill__button:hover {
+      filter: brightness(1.05);
+    }
+
+    .newsletter-pill__hint {
+      margin-top: 0.3rem;
+      margin-left: 0.3rem;
+      font-size: 0.8rem;
+      color: var(--muted);
+    }
+
+    .newsletter-pill__error {
+      margin-top: 0.15rem;
+      font-size: 0.8rem;
+      color: #661d1d;
+    }
+
+    .input--hidden {
+      position: absolute;
+      left: -5000px;
+      opacity: 0;
+      pointer-events: none;
+    }
+
+    @media (max-width: 520px) {
+      .newsletter-pill {
+        padding-right: 0.5rem;
+      }
+
+      .newsletter-pill__top {
+        /* flex-direction: column; */
+        /* align-items: stretch; */
+      }
+
+      .newsletter-pill__button {
+        /* width: 100%; */
+        text-align: center;
+      }
+    }
+
+    /* ===== NEWSLETTER BAR ===== */
+
+    .newsletter-bar-section {
+      max-width: 680px;
+      margin: 0.6rem auto 1.2rem;
+      padding: 0 1.2rem;
+    }
+
+    .newsletter-bar {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 0.4rem;
+      background: var(--bg-soft);
+      border-radius: 999px;
+      border: 1px solid var(--accent2-soft);
+      box-shadow: var(--shadow-soft);
+      padding: 0.2rem 0.3rem 0.2rem 0.85rem;
+    }
+
+    .newsletter-bar__input {
+      border: none;
+      background: transparent;
+      outline: none;
+      font-size: 0.9rem;
+      color: var(--text);
+    }
+
+    .newsletter-bar__input::placeholder {
+      color: var(--muted);
+    }
+
+    .newsletter-bar__button {
+      border: none;
+      border-radius: 999px;
+      background: var(--accent);
+      color: #fff;
+      padding: 0.45rem 0.9rem;
+      font-size: 0.9rem;
+      font-weight: 600;
+      cursor: pointer;
+      min-width: 100px;
+    }
+
+    .newsletter-bar__button:hover {
+      filter: brightness(1.05);
+    }
+
+    .newsletter-bar__hint {
+      margin: 0.35rem 0 0;
+      font-size: 0.8rem;
+      color: var(--muted);
+    }
+  </style>
+</section>

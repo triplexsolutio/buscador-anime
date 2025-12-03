@@ -11,6 +11,7 @@
 
   --accent: #ff7a1a;       /* naranja */
   --accent-soft: rgba(255, 122, 26, 0.1);
+  --accent-soft2: rgba(253, 105, 0, 0.6);
   --accent2: #1f7aff;      /* azul */
   --accent2-soft: rgba(31, 122, 255, 0.08);
 
@@ -34,6 +35,8 @@ html[data-theme="dark"] {
 
   --accent: #ff7a1a;       /* naranja */
   --accent-soft: rgba(255, 122, 26, 0.18);
+  --accent-soft2: rgba(253, 105, 0, 0.6);
+
   --accent2: #39c5ff;      /* azul cyan */
   --accent2-soft: rgba(57, 197, 255, 0.12);
 
@@ -758,3 +761,5 @@ html[data-theme="light"] .modal-close {
 .btn-primary { background: var(--accent2-soft); color: var(--text) }
 .btn-primary:hover { filter:brightness(1.1); }
 .hidden { display:none; }
+
+
