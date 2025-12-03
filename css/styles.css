@@ -767,7 +767,7 @@ html[data-theme="light"] .modal-close {
 .toast {
   position: fixed;
   left: 50%;
-  top: 50px;                   /* separa del borde inferior */
+  top: 65px;                   /* separa del borde inferior */
   transform: translateX(-50%) translateY(16px);
   z-index: 9999;
   background: var(--card-bg);
@@ -780,7 +780,12 @@ html[data-theme="light"] .modal-close {
   pointer-events: none;
   transition: opacity .18s ease, transform .18s ease;
   font-weight: 600;
-}
+
+  display: inline-flex;           /* icono + texto en fila */
+  align-items: center;
+  gap: 8px;
+  min-width: 80vw !important;
+  }
 .toast.is-visible {
   opacity: 1;
   transform: translateX(-50%) translateY(0);
