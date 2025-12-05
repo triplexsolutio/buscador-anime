@@ -1,0 +1,179 @@
+<!-- elements/missingAnimeForm.html -->
+<section class="missing-root" aria-label="Formulario: no encuentro un anime">
+  <form
+    id="sib-form"
+    class="missing-card"
+    method="POST"
+    action="https://3a61f0a6.sibforms.com/serve/MUIFAPIgInKjS1i6LfH-SE_RbxafdD6JdzumIbcE6fMrkPnQ2hxe8vZ-VSYd9MlWO74KRkCFPdF4V9FY3ioZC5gAlEQ5418UEAxyMfoNiwovLwD9Tqx3YR-uBWCnCXrPuxbneaeyKbpiCazyoYGNobZbHsABP_AP-CcyrkKQZoX6J9evgxtgc84q_WCZmfXhjVRnu9LInWV7NMF6Sw=="
+    data-type="subscription"
+  >
+    <header class="missing-head">
+      <h3>🎯 Vamos a cazarlo!</h3>
+      <p>
+        Déjame el <strong>nombre oficial</strong> del anime y tu
+        <strong>email</strong> y lo añado con la info que encuentre por la red
+        ;)
+      </p>
+    </header>
+
+    <label class="field">
+      <span class="label">Dirección de e-mail *</span>
+      <input
+        class="input"
+        type="email"
+        id="EMAIL"
+        name="EMAIL"
+        autocomplete="email"
+        required
+        placeholder="tu@email.com"
+      />
+      <small class="hint"
+        >Lo uso para avisarte cuando esté listo (y filtrar bots).</small
+      >
+    </label>
+
+    <label class="field">
+      <span class="label">Nombre del ANIME *</span>
+      <input
+        class="input"
+        type="text"
+        id="ANIME"
+        name="ANIME"
+        maxlength="200"
+        required
+        placeholder="p. ej., Fog Hill of Five Elements"
+      />
+    </label>
+
+    <fieldset class="choices">
+      <legend>¿Te apunto a…? (opcional)</legend>
+      <label class="check">
+        <input
+          type="checkbox"
+          class="input_replaced"
+          name="lists_30[]"
+          value="2"
+        />
+        <span>Newsletter de contenido anime exclusivo</span>
+      </label>
+      <label class="check">
+        <input
+          type="checkbox"
+          class="input_replaced"
+          name="lists_30[]"
+          value="3"
+        />
+        <span>Novedades anime para miembros Patreon</span>
+      </label>
+    </fieldset>
+
+    <button class="btn" type="submit">Enviar</button>
+
+    <!-- Brevo necesita estos campos ocultos -->
+    <input type="text" name="email_address_check" value="" class="hp" />
+    <input type="hidden" name="locale" value="es" />
+  </form>
+
+  <style>
+    :host,
+    *,
+    *::before,
+    *::after {
+      box-sizing: border-box;
+    }
+
+    .missing-root {
+      max-width: 640px;
+      margin: 0.8rem auto 1.4rem;
+      /* padding: 0 1.2rem; */
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+        sans-serif;
+    }
+    .missing-card {
+      background: var(--bg-soft);
+      border: 1px solid var(--accent2-soft);
+      border-radius: var(--radius-lg);
+      box-shadow: var(--shadow-soft);
+      padding: 1rem;
+    }
+    .missing-head h3 {
+      margin: 0.1rem 0 0.2rem;
+      font-size: 1.05rem;
+    }
+    .missing-head p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
+    .field {
+      display: block;
+      margin: 0.75rem 0;
+    }
+    .label {
+      display: block;
+      font-weight: 700;
+      font-size: 0.9rem;
+      margin-bottom: 0.25rem;
+    }
+    .input {
+      width: 100%;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 0.55rem 0.9rem;
+      background: var(--bg-soft);
+      color: var(--text);
+      outline: none;
+      font-size: 0.95rem;
+    }
+    .input::placeholder {
+      color: var(--muted);
+    }
+    .input:focus {
+      border-color: var(--accent2);
+      box-shadow: 0 0 0 1px rgba(31, 122, 255, 0.28);
+    }
+    .hint {
+      display: block;
+      color: var(--muted);
+      font-size: 0.78rem;
+      margin-top: 0.2rem;
+    }
+
+    .choices {
+      margin: 0.6rem 0;
+      border: 0;
+      padding: 0;
+    }
+    .choices legend {
+      font-weight: 700;
+      font-size: 0.9rem;
+      margin-bottom: 0.2rem;
+    }
+    .check {
+      display: flex;
+      align-items: center;
+      gap: 0.45rem;
+      margin: 0.2rem 0;
+    }
+    .btn {
+      display: inline-block;
+      border: 0;
+      border-radius: 12px;
+      cursor: pointer;
+      padding: 0.6rem 1rem;
+      font-weight: 700;
+      background: var(--accent);
+      color: #fff;
+    }
+    .btn:hover {
+      filter: brightness(1.05);
+    }
+    .hp {
+      position: absolute;
+      left: -5000px;
+      opacity: 0;
+      pointer-events: none;
+    }
+  </style>
+</section>
