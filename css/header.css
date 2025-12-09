@@ -1,0 +1,190 @@
+/* ====== HEADER ====== */
+
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  background: var(--bg-header);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--accent2-soft);
+}
+
+.header-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0.75rem 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+}
+
+.logo-area {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  cursor: pointer;
+}
+
+.logo-circle {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  background: radial-gradient(circle at 30% 30%, var(--accent), var(--accent2));
+}
+
+.brand {
+  font-weight: 600;
+  letter-spacing: 0.03em;
+}
+/* Pequeño stack de marca bajo el logo */
+.brand-wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.brand-sub {
+  font-size: 0.72rem;
+  color: var(--muted);
+}
+
+/* NUEVO: contenedor de acciones (tema + menú) */
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+
+/* TOGGLE TEMA */
+
+/* BOTONES ICONO HEADER (tema, lupa, menú) */
+
+.icon-button {
+  border: 1px solid var(--border);
+  background: var(--bg-soft);
+  border-radius: 999px;
+  width: 34px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: var(--muted);
+  box-shadow: var(--shadow-soft);
+}
+
+.icon-button:hover {
+  border-color: var(--accent2-soft);
+}
+
+/* puedes matizar colores por botón si quieres */
+.theme-toggle:hover {
+  color: var(--accent);
+}
+
+.search-jump:hover {
+  color: var(--accent2);
+}
+.search-jump{
+    animation: search-pulse 1.5s infinite;
+
+}
+
+@keyframes search-pulse {
+  0% {
+    transform: scale(1);
+    box-shadow: 0 0 0 0 rgba(59, 130, 246, 0.6); /* azulito ejemplo */
+  }
+  70% {
+    transform: scale(1.08);
+    box-shadow: 0 0 0 10px rgba(59, 130, 246, 0);
+  }
+  100% {
+    transform: scale(1);
+    box-shadow: 0 0 0 0 rgba(59, 130, 246, 0);
+  }
+}
+
+.menu-toggle:hover {
+  color: var(--accent2);
+}
+
+
+
+
+
+
+/* ====== MENÚ MÓVIL ====== */
+
+.mobile-menu {
+  position: fixed;
+  inset: 0;
+  z-index: 25;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+}
+
+.mobile-menu.open {
+  pointer-events: auto;
+  opacity: 1;
+}
+
+.mobile-menu-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.4);
+  backdrop-filter: blur(2px);
+}
+
+.mobile-menu-panel {
+  position: absolute;
+  top: 0.6rem;
+  right: 0.6rem;
+  width: min(240px, 80vw);
+  background: var(--bg-soft);
+  border-radius: 16px;
+  border: 1px solid var(--accent2-soft);
+  box-shadow: var(--shadow-soft);
+  padding: 0.75rem 0.75rem 0.9rem;
+}
+
+.mobile-menu-close {
+  border: none;
+  background: transparent;
+  color: var(--muted);
+  font-size: 1rem;
+  cursor: pointer;
+  display: flex;
+  margin-left: auto;
+}
+
+.mobile-menu-close:hover {
+  color: var(--accent2);
+}
+
+.mobile-menu ul {
+  list-style: none;
+  padding: 0;
+  margin: 0.25rem 0 0;
+}
+
+.mobile-menu li + li {
+  margin-top: 0.3rem;
+}
+
+.mobile-menu a {
+  display: block;
+  padding: 0.35rem 0.45rem;
+  border-radius: 10px;
+  font-size: 0.9rem;
+  color: var(--text);
+  text-decoration: none;
+}
+
+.mobile-menu a:hover {
+  background: var(--accent2-soft);
+  color: var(--accent2);
+}

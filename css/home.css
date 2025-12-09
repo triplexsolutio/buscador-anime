@@ -1,0 +1,348 @@
+/* ====== HERO ====== */
+
+.hero {
+  max-width: 1100px;
+  margin: 1.5rem auto 1rem;
+  padding: 0 1rem;
+}
+
+.hero h1 {
+  font-size: clamp(1.8rem, 3vw, 2.4rem);
+  margin-bottom: 0.4rem;
+}
+
+.hero p {
+  color: var(--muted);
+  max-width: 580px;
+}
+
+/* ====== BUSCADOR ====== */
+
+.search-section {
+  max-width: 1100px;
+  margin: 0 auto 1.5rem;
+  padding: 0 1rem;
+}
+
+.search-label {
+  display: block;
+  margin-bottom: 0.4rem;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+.search-input {
+  width: 100%;
+  padding: 0.6rem 0.9rem; /* base */
+  /* vuelve a aplicar los laterales calculados para que no se pisen */
+  padding-left: calc(var(--icon-left) + var(--icon-size) + var(--icon-gap));
+  padding-right: calc(var(--clear-right) + var(--clear-size) + 8px);
+
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--bg-soft);
+  color: var(--text);
+  outline: none;
+  box-shadow: var(--shadow-soft);
+}
+
+
+/* === Input con icono y botón borrar === */
+.search-input-wrap{
+  position: relative;
+  --icon-size: 18px;   /* tamaño visual de la lupa */
+  --icon-left: 12px;   /* separación izquierda del borde */
+  --icon-gap: 5px;    /* aire entre la lupa y el texto */
+
+  --clear-size: 28px;  /* tamaño del botón X */
+  --clear-right: 8px;  /* separación derecha del borde */
+}
+
+/* Input: añade padding equivalente al ancho ocupado por la lupa y la X */
+.search-input{
+  padding-left: calc(var(--icon-left) + var(--icon-size) + var(--icon-gap));
+  padding-right: calc(var(--clear-right) + var(--clear-size) + 8px);
+  box-sizing: border-box;
+}
+
+/* Lupa colocada con el mismo sistema */
+.search-icon{
+  position: absolute;
+  left: var(--icon-left);
+  top: 50%;
+  transform: translateY(-50%);
+  width: var(--icon-size);
+  height: var(--icon-size);
+  display: grid;
+  place-items: center;
+  color: var(--muted);
+
+  /* antes tenías pointer-events:none; */
+  pointer-events: auto;
+  cursor: pointer;
+}
+/* .search-icon:focus{ outline: 2px solid var(--accent2); outline-offset: 3px; } */
+
+
+/* Botón X */
+.clear-btn{
+  position: absolute;
+  right: var(--clear-right);
+  top: 50%;
+  transform: translateY(-50%);
+  width: var(--clear-size);
+  height: var(--clear-size);
+  border: 0;
+  background: transparent;
+  color: var(--muted);
+  border-radius: 999px;
+  cursor: pointer;
+  opacity: 0; pointer-events: none;
+  transition: opacity .15s;
+}
+
+.clear-btn:hover{ color: var(--accent2); }
+
+/* Mostrar la X cuando hay texto (fallback con .has-value por JS) */
+.search-input:not(:placeholder-shown) ~ .clear-btn,
+.search-input.has-value ~ .clear-btn{
+  opacity: 1; pointer-events: auto;
+}
+
+/* Mantén el borde/“glow” que ya tienes al focus */
+
+.search-input:focus {
+  border-color: var(--accent2);
+  box-shadow: 0 0 0 1px rgba(31, 122, 255, 0.3);
+}
+
+/* ====== ANIMACIÓN DESTACAR BUSCADOR ====== */
+
+.search-input.search-highlight {
+  animation: searchPulse 0.6s ease-out, searchGlow 1.2s ease-out;
+}
+
+/* pequeño pulso de escala */
+@keyframes searchPulse {
+  0% {
+    transform: scale(1);
+  }
+  30% {
+    transform: scale(1.02);
+  }
+  60% {
+    transform: scale(0.99);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+/* glow en el borde/sombra */
+@keyframes searchGlow {
+  0% {
+    box-shadow: 0 0 0 0 rgba(31, 122, 255, 0);
+    border-color: var(--border);
+  }
+  40% {
+    box-shadow: 0 0 0 4px rgba(31, 122, 255, 0.35);
+    border-color: var(--accent2);
+  }
+  100% {
+    box-shadow: var(--shadow-soft);
+    border-color: var(--border);
+  }
+}
+
+/* ====== ADS SECTION ====== */
+
+.ads-section {
+  max-width: 1100px;
+  margin: 0 auto 1.5rem;
+  padding: 0 1rem;
+}
+
+.ads-section h2 {
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+#adsContainer {
+  border-radius: var(--radius-lg);
+  border: 1px dashed var(--border);
+  padding: 0.9rem;
+  background: var(--bg-soft);
+  color: var(--muted);
+  box-shadow: var(--shadow-soft);
+}
+
+/* ====== RESULTADOS ====== */
+
+.results-section {
+  max-width: 1100px;
+  margin: 0 auto 1.5rem;
+  padding: 0 1rem;
+}
+
+.results-section h2 {
+  font-size: 1.1rem;
+  margin-bottom: 0rem;
+}
+
+.results-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+  gap: 0.9rem;
+  margin-top: 10px;
+}
+
+.result-card {
+  background: var(--card-bg);
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--accent2-soft);
+  padding: 0.7rem;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.15s ease, box-shadow 0.15s ease,
+    border-color 0.15s ease;
+  box-shadow: var(--shadow-soft);
+}
+
+.result-card:hover {
+  transform: translateY(-2px);
+  border-color: var(--accent);
+  box-shadow: 0 10px 24px rgba(15, 23, 42, 0.18);
+}
+
+.result-image-wrapper {
+  width: 100%;
+  border-radius: 12px;
+  overflow: hidden;
+  margin-bottom: .5rem;
+  aspect-ratio: 16 / 7;
+  background: #0f172a;
+
+  --pos-y: 13%; 
+  --zoom: 1;
+}
+
+.result-image-wrapper img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 70% var(--pos-y);
+  transform: scale(var(--zoom));
+}
+
+.result-title {
+  font-size: 0.95rem;
+  margin-bottom: 0.1rem;
+}
+
+.result-meta {
+  font-size: 0.8rem;
+  color: var(--muted);
+  margin-bottom: 0.3rem;
+}
+
+.tag-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+}
+
+.tag {
+  font-size: 0.7rem;
+  padding: 0.2rem 0.5rem;
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--accent);
+}
+
+/* Ajuste de tags de plataformas dentro del modal (más azules) */
+.modal-section .tag {
+  background: var(--accent2-soft);
+  color: var(--accent2);
+}
+.modal-section-plataformas .tag {
+  background: var(--accent2-soft);
+  color: var(--accent2);
+  font-size: 0.9rem;
+}
+.modal-section-generos .tag {
+  background: var(--accent-soft);
+  color: var(--accent);
+}
+
+
+.hidden {
+  display: none !important;
+}
+
+/* ====== INFO ====== */
+
+.info-section {
+  max-width: 1100px;
+  margin: 0 auto 2rem;
+  padding: 0 1rem;
+}
+
+.info-section h2 {
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}
+
+.info-section p {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+/* ====== PAGINACIÓN ====== */
+
+.pagination {
+  max-width: 1100px;
+  margin: 0.5rem auto 2rem;
+  padding: 0 1rem;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.pagination button {
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--bg-soft);
+  color: var(--muted);
+  padding: 0.25rem 0.7rem;
+  font-size: 0.8rem;
+  cursor: pointer;
+  min-width: 32px;
+}
+
+.pagination button:hover {
+  border-color: var(--accent2);
+  color: var(--accent2);
+}
+
+.pagination button.active {
+  background: var(--accent2);
+  color: #ffffff;
+  border-color: var(--accent2);
+}
+
+.pagination button:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
+/*  NO RESULTS  */
+.no-results { 
+  border-radius: 12px;
+  /* background: rgba(255,255,255,0.04);  */
+}
+.no-results__hint { margin: 8px 0 16px; opacity: .9; }
