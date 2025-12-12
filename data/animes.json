@@ -3129,5 +3129,123 @@
     "esDonghua": false,
     "esSerie": true,
     "esPelicula": false
+  },
+  {
+    "id": 136,
+    "nombreEng": "The Faraway Paladin",
+    "nombreJp": "Saihate no Paladin",
+    "descripcion": "Will, criado por tres no muertos, parte a convertirse en paladin y descubrir la verdad de su pasado.",
+    "imagen": "img/cards-anime/136.png",
+    "anio": 2021,
+    "temporadas": 2,
+    "episodios": 24,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GQWE2D09Y/the-faraway-paladin",
+      "AnimeFLV": "https://www3.animeflv.net/anime/saihate-no-paladin"
+    },
+    "generos": [
+      "Fantasia",
+      "Aventura",
+      "Isekai"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 137,
+    "nombreEng": "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too",
+    "nombreJp": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru",
+    "descripcion": "Yuuya obtiene un portal a otro mundo y un poder roto que cambia su vida en ambos mundos.",
+    "imagen": "img/cards-anime/137.png",
+    "anio": 2023,
+    "temporadas": 1,
+    "episodios": 13,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/G4PH0WEG7/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too",
+      "AnimeFLV": "https://www3.animeflv.net/anime/isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-muso-suru"
+    },
+    "generos": [
+      "Fantasia",
+      "Accion",
+      "Isekai",
+      "Escolar"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 138,
+    "nombreEng": "Kaina of the Great Snow Sea",
+    "nombreJp": "Ooyukiumi no Kaina",
+    "descripcion": "Kaina y Liliha viajan por mares de nieve infinita buscando salvar sus mundos del colapso.",
+    "imagen": "img/cards-anime/138.png",
+    "anio": 2023,
+    "temporadas": 1,
+    "episodios": 11,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/G1XHJV55Q/kaina-of-the-great-snow-sea",
+      "AnimeFLV": "https://www3.animeflv.net/anime/ooyukiumi-no-kaina"
+    },
+    "generos": [
+      "Fantasia",
+      "Aventura",
+      "Sci-fi"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 139,
+    "nombreEng": "Re:Zero - Starting Life in Another World",
+    "nombreJp": "Re:Zero kara Hajimeru Isekai Seikatsu",
+    "descripcion": "Subaru es transportado a otro mundo y descubre que revive tras morir, entrando en un ciclo de tragedias y decisiones duras.",
+    "imagen": "img/cards-anime/139.png",
+    "anio": 2016,
+    "temporadas": 2,
+    "episodios": 50,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GRGG67986/rezero-starting-life-in-another-world",
+      "AnimeFLV": "https://www3.animeflv.net/anime/rezero-kara-hajimeru-isekai-seikatsu"
+    },
+    "generos": [
+      "Isekai",
+      "Fantasia oscura",
+      "Drama",
+      "Psicologico"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
+  },
+  {
+    "id": 140,
+    "nombreEng": "To Your Eternity",
+    "nombreJp": "Fumetsu no Anata e",
+    "descripcion": "Una entidad inmortal recorre el mundo adoptando formas y emociones al conocer a quienes encuentra.",
+    "imagen": "img/cards-anime/140.png",
+    "anio": 2021,
+    "temporadas": 2,
+    "episodios": 40,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GP5HJ8WZY/to-your-eternity",
+      "AnimeFLV": "https://www3.animeflv.net/anime/fumetsu-no-anata-e"
+    },
+    "generos": [
+      "Fantasia",
+      "Drama",
+      "Sobrenatural",
+      "Aventura"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true,
+    "esPelicula": false
   }
 ]
