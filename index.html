@@ -228,6 +228,23 @@
       </section>
     </main>
 
+    <!-- Capa previa: banner Patreon con temporizador -->
+    <div id="patreonGate" class="patreon-gate hidden">
+      <div class="patreon-gate__backdrop"></div>
+      <div class="patreon-gate__card">
+        <p class="patreon-gate__heading">
+          Apoya el proyecto mientras cargamos los detalles del anime
+        </p>
+        <p id="patreonTimer" class="patreon-gate__timer">
+          La ficha se abrirá en <span id="patreonCountdown">30</span>s
+        </p>
+        <button id="patreonSkip" class="patreon-gate__skip hidden" type="button">
+          Ver info ahora
+        </button>
+        <patreon-banner></patreon-banner>
+      </div>
+    </div>
+
     <!-- MODAL DE DETALLE DE ANIME -->
     <div id="animeModal" class="modal hidden">
       <div class="modal-backdrop"></div>

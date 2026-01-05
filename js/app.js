@@ -4,6 +4,8 @@ let filteredAnimes = [];
 let currentPage = 1;
 let pageSize = getPageSize(); // dinámico según ancho
 let shouldScrollOnPageChange = false;
+let patreonCountdownInterval = null;
+let patreonGateActive = false;
 
 // ====== ELEMENTOS DOM ======
 
@@ -24,6 +26,10 @@ const modalEpisodes = document.getElementById("modalEpisodes");
 const modalDescription = document.getElementById("modalDescription");
 const modalPlatforms = document.getElementById("modalPlatforms");
 const modalGenres = document.getElementById("modalGenres");
+const patreonGate = document.getElementById("patreonGate");
+const patreonCountdownEl = document.getElementById("patreonCountdown");
+const patreonTimerEl = document.getElementById("patreonTimer");
+const patreonSkipBtn = document.getElementById("patreonSkip");
 const menuToggleBtn = document.getElementById("menuToggle");
 const mobileMenu = document.getElementById("mobileMenu");
 const mobileMenuCloseBtn = document.getElementById("mobileMenuClose");
@@ -355,7 +361,7 @@ function getVisiblePages(currentPage, totalPages, maxButtons = 5) {
 
 // ====== MODAL ======
 
-function openModal(anime) {
+function setModalContent(anime) {
   modalImage.src = anime.imagen || "img/placeholder.png";
   modalTitle.textContent = anime.nombreEng;
   modalTitleJp.textContent = anime.nombreJp ? "(" + anime.nombreJp + ")" : "";
@@ -405,12 +411,78 @@ function openModal(anime) {
     li.textContent = gen;
     modalGenres.appendChild(li);
   });
+}
 
-  modal.classList.remove("hidden");
+function updatePatreonCountdown(value) {
+  if (patreonCountdownEl) {
+    patreonCountdownEl.textContent = value;
+  }
+}
+
+function clearPatreonGateTimers() {
+  if (patreonCountdownInterval) {
+    clearInterval(patreonCountdownInterval);
+    patreonCountdownInterval = null;
+  }
+}
+
+function hidePatreonGate({ showModalAfter = false } = {}) {
+  clearPatreonGateTimers();
+  if (patreonGate) {
+    patreonGate.classList.add("hidden");
+  }
+  if (patreonTimerEl) {
+    patreonTimerEl.classList.remove("hidden");
+  }
+  patreonSkipBtn?.classList.add("hidden");
+  patreonSkipBtn?.setAttribute("aria-disabled", "true");
+  patreonGateActive = false;
+  if (showModalAfter) {
+    modal.classList.remove("hidden");
+  }
+}
+
+function startPatreonGate() {
+  if (patreonGateActive) {
+    hidePatreonGate();
+  }
+
+  if (!patreonGate) {
+    modal.classList.remove("hidden");
+    return;
+  }
+
+  patreonGateActive = true;
+  modal.classList.add("hidden");
+  patreonGate.classList.remove("hidden");
+  patreonTimerEl?.classList.remove("hidden");
+  patreonSkipBtn?.classList.add("hidden");
+  patreonSkipBtn?.setAttribute("aria-disabled", "true");
+
+  let remaining = 30;
+  updatePatreonCountdown(remaining);
+  clearPatreonGateTimers();
+
+  patreonCountdownInterval = setInterval(() => {
+    remaining -= 1;
+    updatePatreonCountdown(Math.max(remaining, 0));
+    if (remaining <= 0) {
+      clearPatreonGateTimers();
+      patreonTimerEl?.classList.add("hidden");
+      patreonSkipBtn?.classList.remove("hidden");
+      patreonSkipBtn?.removeAttribute("aria-disabled");
+    }
+  }, 1000);
+}
+
+function openModal(anime) {
+  setModalContent(anime);
+  startPatreonGate();
 }
 
 function closeModal() {
   modal.classList.add("hidden");
+  hidePatreonGate();
 }
 
 modalCloseBtn.addEventListener("click", closeModal);
@@ -422,8 +494,25 @@ modal.addEventListener("click", (e) => {
 });
 
 document.addEventListener("keydown", (e) => {
-  if (e.key === "Escape" && !modal.classList.contains("hidden")) {
+  if (e.key !== "Escape") return;
+
+  if (patreonGate && !patreonGate.classList.contains("hidden")) {
+    hidePatreonGate();
+    return;
+  }
+
+  if (!modal.classList.contains("hidden")) {
     closeModal();
+  }
+});
+
+patreonSkipBtn?.addEventListener("click", () => {
+  hidePatreonGate({ showModalAfter: true });
+});
+
+patreonGate?.addEventListener("click", (e) => {
+  if (e.target.classList.contains("patreon-gate__backdrop")) {
+    hidePatreonGate();
   }
 });
 
@@ -485,6 +574,10 @@ mobileMenu?.addEventListener("click", (e) => {
 // Cerrar al pulsar ESC si el menú está abierto (aprovechamos el mismo keydown que el modal)
 document.addEventListener("keydown", (e) => {
   if (e.key === "Escape") {
+    if (patreonGate && !patreonGate.classList.contains("hidden")) {
+      hidePatreonGate();
+      return;
+    }
     if (!modal.classList.contains("hidden")) {
       closeModal();
     }
