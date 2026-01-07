@@ -63,7 +63,9 @@ document.addEventListener("DOMContentLoaded", () => {
   fetch("data/animes.json")
     .then((res) => res.json())
     .then((data) => {
-      animes = data;
+      animes = data
+        .slice()
+        .sort((a, b) => (Number(b.id) || 0) - (Number(a.id) || 0));
       filteredAnimes = animes.slice();
       renderPage(1);
     })
