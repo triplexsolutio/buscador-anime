@@ -510,6 +510,10 @@ patreonSkipBtn?.addEventListener("click", () => {
   hidePatreonGate({ showModalAfter: true });
 });
 
+patreonCountdownEl?.addEventListener("click", () => {
+  hidePatreonGate({ showModalAfter: true });
+});
+
 patreonGate?.addEventListener("click", (e) => {
   if (e.target.classList.contains("patreon-gate__backdrop")) {
     hidePatreonGate();
