@@ -44,6 +44,7 @@ const logoZone = document.getElementById("logo-id");
 // Tema
 const themeToggleBtn = document.getElementById("themeToggle");
 const rootHtml = document.documentElement;
+const bodyEl = document.body;
 
 // Año footer
 document.getElementById("year").textContent = new Date().getFullYear();
@@ -426,6 +427,14 @@ function clearPatreonGateTimers() {
   }
 }
 
+function lockPageScroll() {
+  bodyEl?.classList.add("modal-open");
+}
+
+function unlockPageScroll() {
+  bodyEl?.classList.remove("modal-open");
+}
+
 function hidePatreonGate({ showModalAfter = false } = {}) {
   clearPatreonGateTimers();
   if (patreonGate) {
@@ -439,6 +448,9 @@ function hidePatreonGate({ showModalAfter = false } = {}) {
   patreonGateActive = false;
   if (showModalAfter) {
     modal.classList.remove("hidden");
+    lockPageScroll();
+  } else {
+    unlockPageScroll();
   }
 }
 
@@ -448,11 +460,13 @@ function startPatreonGate() {
   }
 
   if (!patreonGate) {
+    lockPageScroll();
     modal.classList.remove("hidden");
     return;
   }
 
   patreonGateActive = true;
+  lockPageScroll();
   modal.classList.add("hidden");
   patreonGate.classList.remove("hidden");
   patreonTimerEl?.classList.remove("hidden");
