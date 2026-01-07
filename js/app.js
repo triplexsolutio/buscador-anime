@@ -459,7 +459,7 @@ function startPatreonGate() {
   patreonSkipBtn?.classList.add("hidden");
   patreonSkipBtn?.setAttribute("aria-disabled", "true");
 
-  let remaining = 30;
+  let remaining = 15;
   updatePatreonCountdown(remaining);
   clearPatreonGateTimers();
 
