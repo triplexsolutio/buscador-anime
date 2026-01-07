@@ -186,9 +186,26 @@ html[data-theme="light"] .modal-close {
   padding: 10px 14px;
   cursor: pointer;
   box-shadow: 0 8px 18px rgba(0, 0, 0, 0.25);
-  margin-top: 0.2rem;
 }
 
 .patreon-gate__skip:hover {
   filter: brightness(1.05);
+}
+
+.patreon-gate__actions {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+}
+
+.patreon-gate__help {
+  color: var(--text);
+  text-decoration: underline;
+  font-weight: 500;
+  font-size: small;
+}
+
+.patreon-gate__help:hover {
+  opacity: 0.85;
 }

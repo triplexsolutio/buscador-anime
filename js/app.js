@@ -30,6 +30,7 @@ const patreonGate = document.getElementById("patreonGate");
 const patreonCountdownEl = document.getElementById("patreonCountdown");
 const patreonTimerEl = document.getElementById("patreonTimer");
 const patreonSkipBtn = document.getElementById("patreonSkip");
+const patreonActions = document.getElementById("patreonActions");
 const menuToggleBtn = document.getElementById("menuToggle");
 const mobileMenu = document.getElementById("mobileMenu");
 const mobileMenuCloseBtn = document.getElementById("mobileMenuClose");
@@ -445,7 +446,7 @@ function hidePatreonGate({ showModalAfter = false } = {}) {
   if (patreonTimerEl) {
     patreonTimerEl.classList.remove("hidden");
   }
-  patreonSkipBtn?.classList.add("hidden");
+  patreonActions?.classList.add("hidden");
   patreonSkipBtn?.setAttribute("aria-disabled", "true");
   patreonGateActive = false;
   if (showModalAfter) {
@@ -472,7 +473,7 @@ function startPatreonGate() {
   modal.classList.add("hidden");
   patreonGate.classList.remove("hidden");
   patreonTimerEl?.classList.remove("hidden");
-  patreonSkipBtn?.classList.add("hidden");
+  patreonActions?.classList.add("hidden");
   patreonSkipBtn?.setAttribute("aria-disabled", "true");
 
   let remaining = 15;
@@ -485,7 +486,7 @@ function startPatreonGate() {
     if (remaining <= 0) {
       clearPatreonGateTimers();
       patreonTimerEl?.classList.add("hidden");
-      patreonSkipBtn?.classList.remove("hidden");
+      patreonActions?.classList.remove("hidden");
       patreonSkipBtn?.removeAttribute("aria-disabled");
     }
   }, 1000);
