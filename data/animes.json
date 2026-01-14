@@ -3314,5 +3314,141 @@
     "esAnime": true,
     "esDonghua": false,
     "esSerie": true
+  },
+  {
+    "id": 144,
+    "nombreEng": "Do You Think Someone Like You Can Defeat the Demon King?, Roll Over and Die: I Will Fight for an Ordinary Life with My Love and Cursed Sword!",
+    "nombreJp": "Omagoto: Omae Gotoki ga Maou ni Kateru to Omouna to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai",
+    "descripcion": "Una joven marginada es arrastrada a un mundo cruel donde la humillación, el abuso y la supervivencia extrema forjan una anti-heroína dispuesta a crecer de forma brutal para desafiar incluso al Rey Demonio.",
+    "imagen": "img/cards-anime/144.png",
+    "anio": 2026,
+    "temporadas": 1,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GT00365592/roll-over-and-die-i-will-fight-for-an-ordinary-life-with-my-love-and-cursed-sword?srsltid=AfmBOooV5WbuiJUFUX71Rk0s52JbqtK944Ls1CBP84N2nDPbrbFMjWqa",
+      "AnimeFLV": "https://www3.animeflv.net/anime/omagoto"
+    },
+    "generos": [
+      "Fantasía Oscura",
+      "Acción",
+      "Supervivencia",
+      "Drama"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true
+  },
+  {
+    "id": 145,
+    "nombreEng": "Samurai Troopers",
+    "nombreJp": "Yoroi Shin Den Samurai Troopers",
+    "descripcion": "Cinco guerreros portadores de armaduras místicas luchan contra fuerzas demoníacas en una guerra espiritual que mezcla artes marciales, honor samurái y batallas sobrenaturales.",
+    "imagen": "img/cards-anime/145.png",
+    "anio": 1988,
+    "temporadas": 1,
+    "episodios": 39,
+    "plataformas": {
+      "AnimeFLV": "https://www3.animeflv.net/anime/yoroi-shin-den-samurai-troopers"
+    },
+    "generos": [
+      "Acción",
+      "Sobrenatural",
+      "Artes Marciales",
+      "Fantasía"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true
+  },
+  {
+    "id": 146,
+    "nombreEng": "Sentenced to Be a Hero",
+    "nombreJp": "Yuusha-kei ni Shokei Sareta Yuusha no Saigo",
+    "descripcion": "Un héroe es condenado por el propio sistema que lo creó, iniciando un viaje marcado por la traición, la fantasía oscura y una venganza contra un mundo profundamente corrupto.",
+    "imagen": "img/cards-anime/146.png",
+    "anio": 2026,
+    "temporadas": 1,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GT00356809/sentenced-to-be-a-hero",
+      "AnimeFLV": "https://www3.animeflv.net/anime/yuushakei-ni-shosu-choubatsu-yuusha-9004tai-keimu-kiroku"
+    },
+    "generos": [
+      "Fantasía Oscura",
+      "Acción",
+      "Venganza",
+      "Drama"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true
+  },
+  {
+    "id": 147,
+    "nombreEng": "The Case Book of Arne",
+    "nombreJp": "Arne no Jikenbo",
+    "descripcion": "Un joven investigador y sus aliados se enfrentan a misterios sin resolver, criaturas extrañas y asesinatos imposibles en una ciudad donde la lógica y el horror conviven.",
+    "imagen": "img/cards-anime/147.png",
+    "anio": 2026,
+    "temporadas": 1,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": "https://www.crunchyroll.com/es-es/series/GT00365733/the-casebook-of-arne",
+      "AnimeFLV": "https://www3.animeflv.net/anime/arne-no-jikenbo"
+    },
+    "generos": [
+      "Misterio",
+      "Detectives",
+      "Sobrenatural",
+      "Suspense"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true
+  },
+  {
+    "id": 148,
+    "nombreEng": "Hikuidori",
+    "nombreJp": "Hikuidori: Ushuu Boro Tobi-gumi",
+    "descripcion": "En el Japón feudal, brigadas especializadas luchan contra incendios devastadores mientras afrontan conflictos humanos, honor, tragedia y sacrificio en una era implacable.",
+    "imagen": "img/cards-anime/148.png",
+    "anio": 2026,
+    "temporadas": 1,
+    "episodios": null,
+    "plataformas": {
+      "Crunchyroll": null,
+      "AnimeFLV": "https://www3.animeflv.net/anime/hikuidori-ushuu-boro-tobigumi"
+    },
+    "generos": [
+      "Histórico",
+      "Acción",
+      "Drama",
+      "Samuráis"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true
+  },
+  {
+    "id": 149,
+    "nombreEng": "Hell Mode",
+    "nombreJp": "Yarikomizuki no Gamer wa Hai Settei no Sekai de Musou Suru",
+    "descripcion": "Un jugador obsesionado con la dificultad extrema renace en un mundo RPG donde solo el esfuerzo constante, la progresión lenta y la superación absoluta permiten sobrevivir.",
+    "imagen": "img/cards-anime/149.png",
+    "anio": 2026,
+    "temporadas": 1,
+    "episodios": null,
+    "plataformas": {
+      "AnimeFLV": "https://www3.animeflv.net/anime/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru"
+    },
+    "generos": [
+      "Isekai",
+      "Fantasía",
+      "RPG",
+      "Superación"
+    ],
+    "esAnime": true,
+    "esDonghua": false,
+    "esSerie": true
   }
 ]
